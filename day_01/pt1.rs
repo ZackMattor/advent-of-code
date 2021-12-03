@@ -1,20 +1,16 @@
-use std::fs::File;
-use std::io::{self, prelude::*, BufReader};
+use std::io;
 
-fn main() -> io::Result<()> {
+use crate::common::util;
+
+pub fn run() -> io::Result<()> {
     let mut count:u32 = 0;
-
-    let file = File::open("01-input.txt")?;
-    let reader = BufReader::new(file);
-    let mut lines = reader.lines();
-
-    // I hate this line...
+    let mut lines = util::read_input("day_01/input.txt");
     let mut previous_number = lines.next().unwrap().unwrap().parse::<i32>().unwrap();
 
     for line in lines {
         let current_number = line?.parse::<i32>().unwrap();
         println!("num : {} {}", previous_number, current_number);
-    
+
         if previous_number < current_number {
             count += 1;
         }

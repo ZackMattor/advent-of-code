@@ -1,17 +1,15 @@
-use std::fs::File;
-use std::io::{self, prelude::*, BufReader};
+use std::io;
 use std::collections::LinkedList;
 
-fn main() -> io::Result<()> {
+use crate::common::util;
+
+pub fn run() -> io::Result<()> {
     let mut count:u32 = 0;
     let window_size = 3;
     let mut previous_sum:i32 = 0;
     let mut buffer = LinkedList::new();
 
-    // Read out input file and create an iterator
-    let file = File::open("01-input.txt")?;
-    let reader = BufReader::new(file);
-    let mut lines = reader.lines();
+    let mut lines = util::read_input("day_01/input.txt");
 
     // Prime the sum window
     for _ in 0..window_size {
