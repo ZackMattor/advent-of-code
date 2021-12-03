@@ -1,0 +1,6121 @@
+position : 11
+gamma_map : [false, false, true, true, false, false, false, false, true, false, true, true]
+gamma bit : false
+filtering... : 110001010111 true false
+filtering... : 011011110010 false false
+filtering... : 110011110011 true false
+filtering... : 101000010111 true false
+filtering... : 011101100100 false false
+filtering... : 111001011100 true false
+filtering... : 011100000101 false false
+filtering... : 011110110011 false false
+filtering... : 001001111111 false false
+filtering... : 111000010000 true false
+filtering... : 001000101100 false false
+filtering... : 011100111010 false false
+filtering... : 011100111000 false false
+filtering... : 011100010001 false false
+filtering... : 100001100000 true false
+filtering... : 111010111110 true false
+filtering... : 100011000101 true false
+filtering... : 010111000101 false false
+filtering... : 100110110011 true false
+filtering... : 101010110011 true false
+filtering... : 110101110010 true false
+filtering... : 110111100010 true false
+filtering... : 000001100100 false false
+filtering... : 010010011010 false false
+filtering... : 001001001100 false false
+filtering... : 101000000111 true false
+filtering... : 100100110011 true false
+filtering... : 111111100011 true false
+filtering... : 110010001010 true false
+filtering... : 100010110011 true false
+filtering... : 111101101001 true false
+filtering... : 101001001101 true false
+filtering... : 110111011101 true false
+filtering... : 100100101101 true false
+filtering... : 111111000011 true false
+filtering... : 001110010110 false false
+filtering... : 010110110010 false false
+filtering... : 010011100000 false false
+filtering... : 110011100011 true false
+filtering... : 111101001011 true false
+filtering... : 100001101000 true false
+filtering... : 100101100011 true false
+filtering... : 010101100110 false false
+filtering... : 101000001001 true false
+filtering... : 010001011100 false false
+filtering... : 111001010010 true false
+filtering... : 000110000110 false false
+filtering... : 110110111111 true false
+filtering... : 111111010000 true false
+filtering... : 110111110011 true false
+filtering... : 110110010010 true false
+filtering... : 000001001111 false false
+filtering... : 010001000111 false false
+filtering... : 101101100110 true false
+filtering... : 110011100100 true false
+filtering... : 101000010100 true false
+filtering... : 010100010000 false false
+filtering... : 100011001001 true false
+filtering... : 011000111101 false false
+filtering... : 000101011101 false false
+filtering... : 000110111110 false false
+filtering... : 011000101100 false false
+filtering... : 110101101001 true false
+filtering... : 100011110011 true false
+filtering... : 110101010001 true false
+filtering... : 100010100000 true false
+filtering... : 110010010001 true false
+filtering... : 000101101011 false false
+filtering... : 101100111011 true false
+filtering... : 111110110001 true false
+filtering... : 011001000100 false false
+filtering... : 001101111000 false false
+filtering... : 100100100101 true false
+filtering... : 101111001000 true false
+filtering... : 011010110110 false false
+filtering... : 001110011111 false false
+filtering... : 101011001001 true false
+filtering... : 110000100010 true false
+filtering... : 011110100110 false false
+filtering... : 001100101100 false false
+filtering... : 000110000001 false false
+filtering... : 011111001111 false false
+filtering... : 011000110010 false false
+filtering... : 001100011111 false false
+filtering... : 111100010100 true false
+filtering... : 010011111000 false false
+filtering... : 000100101010 false false
+filtering... : 101111100101 true false
+filtering... : 010000001100 false false
+filtering... : 100100101111 true false
+filtering... : 100011101100 true false
+filtering... : 000001111000 false false
+filtering... : 001110000011 false false
+filtering... : 011101011001 false false
+filtering... : 000001111101 false false
+filtering... : 000011001011 false false
+filtering... : 111111000110 true false
+filtering... : 000001011100 false false
+filtering... : 011001100000 false false
+filtering... : 111001011101 true false
+filtering... : 011010000011 false false
+filtering... : 101010101110 true false
+filtering... : 010110010101 false false
+filtering... : 000011101101 false false
+filtering... : 010010011000 false false
+filtering... : 000010100111 false false
+filtering... : 001000000111 false false
+filtering... : 111111011100 true false
+filtering... : 101010010000 true false
+filtering... : 101001001100 true false
+filtering... : 000000100111 false false
+filtering... : 101010101100 true false
+filtering... : 010110100111 false false
+filtering... : 001010001101 false false
+filtering... : 111000000101 true false
+filtering... : 111001101100 true false
+filtering... : 011110010001 false false
+filtering... : 011001111010 false false
+filtering... : 010010011011 false false
+filtering... : 011110111000 false false
+filtering... : 010111110000 false false
+filtering... : 001110001011 false false
+filtering... : 010001001011 false false
+filtering... : 011001001010 false false
+filtering... : 011001001101 false false
+filtering... : 001101011101 false false
+filtering... : 100110100000 true false
+filtering... : 100001111110 true false
+filtering... : 101110100011 true false
+filtering... : 100010111111 true false
+filtering... : 001010010011 false false
+filtering... : 000010011001 false false
+filtering... : 011001111101 false false
+filtering... : 000100000010 false false
+filtering... : 100110010011 true false
+filtering... : 001111001000 false false
+filtering... : 110001011101 true false
+filtering... : 000100011000 false false
+filtering... : 111110000000 true false
+filtering... : 111001101000 true false
+filtering... : 100111000100 true false
+filtering... : 010000010100 false false
+filtering... : 011000110111 false false
+filtering... : 000110001101 false false
+filtering... : 101100110010 true false
+filtering... : 011111101001 false false
+filtering... : 000000100010 false false
+filtering... : 000001101000 false false
+filtering... : 111001111101 true false
+filtering... : 111100010111 true false
+filtering... : 110000010101 true false
+filtering... : 110000101100 true false
+filtering... : 101111010011 true false
+filtering... : 000100010101 false false
+filtering... : 100111100011 true false
+filtering... : 110100101111 true false
+filtering... : 101000001000 true false
+filtering... : 001000100000 false false
+filtering... : 100111111010 true false
+filtering... : 001101111101 false false
+filtering... : 000000101000 false false
+filtering... : 100111101100 true false
+filtering... : 100111010100 true false
+filtering... : 111100010110 true false
+filtering... : 100001010011 true false
+filtering... : 010010001000 false false
+filtering... : 111101010101 true false
+filtering... : 101110101010 true false
+filtering... : 111110001110 true false
+filtering... : 001010111010 false false
+filtering... : 100110001000 true false
+filtering... : 101111001111 true false
+filtering... : 110010011101 true false
+filtering... : 110001110101 true false
+filtering... : 011101000000 false false
+filtering... : 010011110110 false false
+filtering... : 001110101001 false false
+filtering... : 011110011010 false false
+filtering... : 110010111100 true false
+filtering... : 010000100001 false false
+filtering... : 010010000100 false false
+filtering... : 111111000101 true false
+filtering... : 010111100111 false false
+filtering... : 101010110010 true false
+filtering... : 100010010011 true false
+filtering... : 101011010000 true false
+filtering... : 000101100000 false false
+filtering... : 011001000011 false false
+filtering... : 010110000000 false false
+filtering... : 101011101111 true false
+filtering... : 001101001110 false false
+filtering... : 001100100110 false false
+filtering... : 011111110011 false false
+filtering... : 010000101101 false false
+filtering... : 000111101101 false false
+filtering... : 111100101101 true false
+filtering... : 000011001101 false false
+filtering... : 110011111100 true false
+filtering... : 011000110000 false false
+filtering... : 000001010010 false false
+filtering... : 111100111111 true false
+filtering... : 001010000100 false false
+filtering... : 000011010010 false false
+filtering... : 010001000001 false false
+filtering... : 111010111000 true false
+filtering... : 110001010011 true false
+filtering... : 000000101011 false false
+filtering... : 011110011011 false false
+filtering... : 100110111000 true false
+filtering... : 010010110010 false false
+filtering... : 000010111110 false false
+filtering... : 110010001001 true false
+filtering... : 000111001001 false false
+filtering... : 001000011100 false false
+filtering... : 111111011010 true false
+filtering... : 000000110101 false false
+filtering... : 111011111011 true false
+filtering... : 100001110111 true false
+filtering... : 010001110000 false false
+filtering... : 010101100100 false false
+filtering... : 011010100001 false false
+filtering... : 111000101101 true false
+filtering... : 001100110110 false false
+filtering... : 010001111110 false false
+filtering... : 100000101011 true false
+filtering... : 011111111001 false false
+filtering... : 111000001100 true false
+filtering... : 011111100011 false false
+filtering... : 110110110000 true false
+filtering... : 011000101010 false false
+filtering... : 101000000011 true false
+filtering... : 101111110100 true false
+filtering... : 011000101101 false false
+filtering... : 001000011010 false false
+filtering... : 101001100111 true false
+filtering... : 101100001101 true false
+filtering... : 100100101100 true false
+filtering... : 001101011001 false false
+filtering... : 001111100111 false false
+filtering... : 011100101001 false false
+filtering... : 110010000000 true false
+filtering... : 010100111000 false false
+filtering... : 000011010111 false false
+filtering... : 000000100110 false false
+filtering... : 101001000000 true false
+filtering... : 000110100100 false false
+filtering... : 110001110011 true false
+filtering... : 001011001101 false false
+filtering... : 100000111100 true false
+filtering... : 101011011111 true false
+filtering... : 000010110110 false false
+filtering... : 010101110100 false false
+filtering... : 111100111001 true false
+filtering... : 111010101101 true false
+filtering... : 101100001001 true false
+filtering... : 011111000111 false false
+filtering... : 010001101000 false false
+filtering... : 100000001111 true false
+filtering... : 011111101100 false false
+filtering... : 011111100111 false false
+filtering... : 111101111110 true false
+filtering... : 110110100101 true false
+filtering... : 011110001011 false false
+filtering... : 100111100001 true false
+filtering... : 000001101101 false false
+filtering... : 100110101110 true false
+filtering... : 100000010011 true false
+filtering... : 110000000001 true false
+filtering... : 001001101001 false false
+filtering... : 000001111111 false false
+filtering... : 111001001010 true false
+filtering... : 101011100101 true false
+filtering... : 100100000000 true false
+filtering... : 110001101011 true false
+filtering... : 011111001011 false false
+filtering... : 010010001011 false false
+filtering... : 000101010011 false false
+filtering... : 110010110100 true false
+filtering... : 101010101011 true false
+filtering... : 100100001100 true false
+filtering... : 000001100011 false false
+filtering... : 101010000010 true false
+filtering... : 111101100100 true false
+filtering... : 001011010111 false false
+filtering... : 000001010001 false false
+filtering... : 001010001011 false false
+filtering... : 100110000011 true false
+filtering... : 000010101010 false false
+filtering... : 110111011100 true false
+filtering... : 001100111000 false false
+filtering... : 111011010111 true false
+filtering... : 100100110000 true false
+filtering... : 000010111010 false false
+filtering... : 000011010001 false false
+filtering... : 100001111111 true false
+filtering... : 111111000100 true false
+filtering... : 010111111000 false false
+filtering... : 100101010010 true false
+filtering... : 001111111010 false false
+filtering... : 001111011100 false false
+filtering... : 111101100111 true false
+filtering... : 111011011011 true false
+filtering... : 111000100110 true false
+filtering... : 011101001011 false false
+filtering... : 010100101010 false false
+filtering... : 010100001111 false false
+filtering... : 010000001111 false false
+filtering... : 000000000010 false false
+filtering... : 010011010111 false false
+filtering... : 001101001011 false false
+filtering... : 101011001011 true false
+filtering... : 011001101101 false false
+filtering... : 100000000111 true false
+filtering... : 100110011010 true false
+filtering... : 000101000110 false false
+filtering... : 101100010011 true false
+filtering... : 101011011100 true false
+filtering... : 001101010100 false false
+filtering... : 110101110111 true false
+filtering... : 001100001000 false false
+filtering... : 001001100100 false false
+filtering... : 111101011010 true false
+filtering... : 001100100100 false false
+filtering... : 100000100010 true false
+filtering... : 001110111001 false false
+filtering... : 101101001110 true false
+filtering... : 001101110111 false false
+filtering... : 010101100101 false false
+filtering... : 000011111110 false false
+filtering... : 001000111101 false false
+filtering... : 110011101011 true false
+filtering... : 110101011000 true false
+filtering... : 000000100101 false false
+filtering... : 100110100001 true false
+filtering... : 111111101101 true false
+filtering... : 010100101111 false false
+filtering... : 110101011010 true false
+filtering... : 011010011100 false false
+filtering... : 101101010001 true false
+filtering... : 101001010011 true false
+filtering... : 011111001100 false false
+filtering... : 101001010111 true false
+filtering... : 011100100011 false false
+filtering... : 101011110000 true false
+filtering... : 010111001010 false false
+filtering... : 111011000111 true false
+filtering... : 100111001101 true false
+filtering... : 001110111010 false false
+filtering... : 100001111000 true false
+filtering... : 111011010011 true false
+filtering... : 110000101010 true false
+filtering... : 011010000000 false false
+filtering... : 110001111010 true false
+filtering... : 100101000100 true false
+filtering... : 010000110100 false false
+filtering... : 101000101010 true false
+filtering... : 011010101110 false false
+filtering... : 010000111100 false false
+filtering... : 101011100100 true false
+filtering... : 101101111010 true false
+filtering... : 111011111110 true false
+filtering... : 000101010111 false false
+filtering... : 000010111000 false false
+filtering... : 011101101010 false false
+filtering... : 101110100110 true false
+filtering... : 010000011010 false false
+filtering... : 101100100000 true false
+filtering... : 010011010101 false false
+filtering... : 101100011100 true false
+filtering... : 011010101010 false false
+filtering... : 010111101010 false false
+filtering... : 111011100111 true false
+filtering... : 111111110010 true false
+filtering... : 101101100100 true false
+filtering... : 111001010100 true false
+filtering... : 011000001110 false false
+filtering... : 110110001110 true false
+filtering... : 111110100110 true false
+filtering... : 001011011100 false false
+filtering... : 101000010010 true false
+filtering... : 100000101010 true false
+filtering... : 010000011110 false false
+filtering... : 001001110111 false false
+filtering... : 001001001011 false false
+filtering... : 110010011110 true false
+filtering... : 001111001100 false false
+filtering... : 110110100010 true false
+filtering... : 111100000111 true false
+filtering... : 010101101011 false false
+filtering... : 001111111001 false false
+filtering... : 101011000000 true false
+filtering... : 011100011000 false false
+filtering... : 000001000000 false false
+filtering... : 100101001100 true false
+filtering... : 110010011001 true false
+filtering... : 111100111110 true false
+filtering... : 010000110110 false false
+filtering... : 110000111000 true false
+filtering... : 110111100001 true false
+filtering... : 000100100010 false false
+filtering... : 100010001110 true false
+filtering... : 010000111101 false false
+filtering... : 111100011000 true false
+filtering... : 110000000101 true false
+filtering... : 000000000001 false false
+filtering... : 010011111100 false false
+filtering... : 011011111101 false false
+filtering... : 111001111010 true false
+filtering... : 001001001001 false false
+filtering... : 010101011010 false false
+filtering... : 011010011111 false false
+filtering... : 001111000011 false false
+filtering... : 101111111111 true false
+filtering... : 000111101000 false false
+filtering... : 011000111110 false false
+filtering... : 001100101101 false false
+filtering... : 101000000110 true false
+filtering... : 000100001010 false false
+filtering... : 111110010101 true false
+filtering... : 000011101000 false false
+filtering... : 011010101000 false false
+filtering... : 100111100000 true false
+filtering... : 111001111111 true false
+filtering... : 010101000111 false false
+filtering... : 011000100101 false false
+filtering... : 001001110001 false false
+filtering... : 101101011011 true false
+filtering... : 001000001100 false false
+filtering... : 111110111010 true false
+filtering... : 011110111010 false false
+filtering... : 111101100001 true false
+filtering... : 011111101000 false false
+filtering... : 110100010100 true false
+filtering... : 010001110011 false false
+filtering... : 000011010011 false false
+filtering... : 010000110010 false false
+filtering... : 000011111011 false false
+filtering... : 101111011000 true false
+filtering... : 010101111110 false false
+filtering... : 100100101011 true false
+filtering... : 001000011011 false false
+filtering... : 011000100000 false false
+filtering... : 100100111101 true false
+filtering... : 001010110011 false false
+filtering... : 000000000000 false false
+filtering... : 000110111011 false false
+filtering... : 001001011001 false false
+filtering... : 011101010010 false false
+filtering... : 000111000011 false false
+filtering... : 010001000100 false false
+filtering... : 011110011111 false false
+filtering... : 010010111011 false false
+filtering... : 100000000011 true false
+filtering... : 001100111101 false false
+filtering... : 000001000110 false false
+filtering... : 000010000010 false false
+filtering... : 101111001010 true false
+filtering... : 000111000001 false false
+filtering... : 100101011100 true false
+filtering... : 111001110100 true false
+filtering... : 100111001111 true false
+filtering... : 011110111111 false false
+filtering... : 010101011110 false false
+filtering... : 101010011011 true false
+filtering... : 101000010101 true false
+filtering... : 101001101000 true false
+filtering... : 001001011101 false false
+filtering... : 010110101100 false false
+filtering... : 101110111100 true false
+filtering... : 000111011110 false false
+filtering... : 010111001101 false false
+filtering... : 001101100010 false false
+filtering... : 011101001111 false false
+filtering... : 100111111111 true false
+filtering... : 000110101110 false false
+filtering... : 011110001110 false false
+filtering... : 110011100111 true false
+filtering... : 010011100101 false false
+filtering... : 100101000011 true false
+filtering... : 100101010011 true false
+filtering... : 111000110110 true false
+filtering... : 110111011111 true false
+filtering... : 000100011110 false false
+filtering... : 100000000001 true false
+filtering... : 010111111111 false false
+filtering... : 100000100011 true false
+filtering... : 110010011111 true false
+filtering... : 111101110110 true false
+filtering... : 001000001001 false false
+filtering... : 001100011001 false false
+filtering... : 111100110001 true false
+filtering... : 100110100101 true false
+filtering... : 010111101000 false false
+filtering... : 000000000110 false false
+filtering... : 000011011001 false false
+filtering... : 100100001111 true false
+filtering... : 001111100100 false false
+filtering... : 001011010011 false false
+filtering... : 001000110011 false false
+filtering... : 110100010010 true false
+filtering... : 011100110111 false false
+filtering... : 011010110010 false false
+filtering... : 011001110110 false false
+filtering... : 011011100010 false false
+filtering... : 001110101011 false false
+filtering... : 101101100111 true false
+filtering... : 101101111100 true false
+filtering... : 000110000101 false false
+filtering... : 000001110010 false false
+filtering... : 001101110010 false false
+filtering... : 101011000100 true false
+filtering... : 000110000000 false false
+filtering... : 001001011111 false false
+filtering... : 100101101011 true false
+filtering... : 001010100001 false false
+filtering... : 110000111110 true false
+filtering... : 011111101111 false false
+filtering... : 110110111100 true false
+filtering... : 001000010110 false false
+filtering... : 000101111110 false false
+filtering... : 111001000001 true false
+filtering... : 000100110011 false false
+filtering... : 110110000101 true false
+filtering... : 101100101011 true false
+filtering... : 101110000010 true false
+filtering... : 011101100001 false false
+filtering... : 010011000001 false false
+filtering... : 010111000011 false false
+filtering... : 010111011101 false false
+filtering... : 101010100001 true false
+filtering... : 000111011011 false false
+filtering... : 101110010000 true false
+filtering... : 110000000010 true false
+filtering... : 101100011101 true false
+filtering... : 011000011000 false false
+filtering... : 001111101101 false false
+filtering... : 101000001010 true false
+filtering... : 101011010001 true false
+filtering... : 011111100001 false false
+filtering... : 101001011110 true false
+filtering... : 100101011000 true false
+filtering... : 011110001100 false false
+filtering... : 111100011110 true false
+filtering... : 010011101110 false false
+filtering... : 001001110000 false false
+filtering... : 001001000011 false false
+filtering... : 100001010000 true false
+filtering... : 000110010000 false false
+filtering... : 110111010111 true false
+filtering... : 000100110101 false false
+filtering... : 001110101000 false false
+filtering... : 101011000011 true false
+filtering... : 001011100000 false false
+filtering... : 111111111111 true false
+filtering... : 111111011110 true false
+filtering... : 110001100001 true false
+filtering... : 001000001111 false false
+filtering... : 101000100100 true false
+filtering... : 001011001001 false false
+filtering... : 110110001101 true false
+filtering... : 000100000000 false false
+filtering... : 011100001101 false false
+filtering... : 110011001000 true false
+filtering... : 001111011101 false false
+filtering... : 010000111111 false false
+filtering... : 010110011110 false false
+filtering... : 011110111011 false false
+filtering... : 101111011101 true false
+filtering... : 001100011000 false false
+filtering... : 001011111001 false false
+filtering... : 000110001011 false false
+filtering... : 011011010100 false false
+filtering... : 111110001011 true false
+filtering... : 010000110111 false false
+filtering... : 001100011101 false false
+filtering... : 011110111001 false false
+filtering... : 000010101001 false false
+filtering... : 001110000001 false false
+filtering... : 011111010101 false false
+filtering... : 000010010100 false false
+filtering... : 000101011001 false false
+filtering... : 100100000001 true false
+filtering... : 001111101011 false false
+filtering... : 111110010011 true false
+filtering... : 000111111011 false false
+filtering... : 001101010110 false false
+filtering... : 001100111001 false false
+filtering... : 000100011101 false false
+filtering... : 111010010111 true false
+filtering... : 000100000001 false false
+filtering... : 001011101111 false false
+filtering... : 101001110011 true false
+filtering... : 001011110101 false false
+filtering... : 011000001101 false false
+filtering... : 110011001011 true false
+filtering... : 011110111100 false false
+filtering... : 110110101000 true false
+filtering... : 011010001101 false false
+filtering... : 110111001000 true false
+filtering... : 110010010101 true false
+filtering... : 011010001011 false false
+filtering... : 000011100111 false false
+filtering... : 011000110001 false false
+filtering... : 001100001111 false false
+filtering... : 110010011010 true false
+filtering... : 101100101100 true false
+filtering... : 001100000110 false false
+filtering... : 010101001111 false false
+filtering... : 000011000100 false false
+filtering... : 110001000111 true false
+filtering... : 001001011000 false false
+filtering... : 001001001000 false false
+filtering... : 000010111101 false false
+filtering... : 100101001010 true false
+filtering... : 011100111100 false false
+filtering... : 101000011011 true false
+filtering... : 101011010111 true false
+filtering... : 111001000011 true false
+filtering... : 100100100110 true false
+filtering... : 011001011011 false false
+filtering... : 000011110011 false false
+filtering... : 001101000111 false false
+filtering... : 011010010100 false false
+filtering... : 101010101000 true false
+filtering... : 100010110000 true false
+filtering... : 100001011110 true false
+filtering... : 100000110110 true false
+filtering... : 001011101001 false false
+filtering... : 000110100011 false false
+filtering... : 111000101010 true false
+filtering... : 111001011001 true false
+filtering... : 101111010010 true false
+filtering... : 011100101010 false false
+filtering... : 100010111000 true false
+filtering... : 010100101110 false false
+filtering... : 011001110000 false false
+filtering... : 000010001101 false false
+filtering... : 101110000111 true false
+filtering... : 011011001111 false false
+filtering... : 011110001000 false false
+filtering... : 010010100011 false false
+filtering... : 110001100010 true false
+filtering... : 001101011011 false false
+filtering... : 110100000101 true false
+filtering... : 101110100111 true false
+filtering... : 001110111011 false false
+filtering... : 000110100101 false false
+filtering... : 100100100001 true false
+filtering... : 101000111100 true false
+filtering... : 100011101110 true false
+filtering... : 110010000101 true false
+filtering... : 101100011001 true false
+filtering... : 100000010111 true false
+filtering... : 011100100101 false false
+filtering... : 000010011011 false false
+filtering... : 001011001100 false false
+filtering... : 011001000000 false false
+filtering... : 000101000101 false false
+filtering... : 100001001100 true false
+filtering... : 000001101010 false false
+filtering... : 110111101100 true false
+filtering... : 111001101010 true false
+filtering... : 110000110111 true false
+filtering... : 000110010001 false false
+filtering... : 011100000000 false false
+filtering... : 010000111010 false false
+filtering... : 000101000000 false false
+filtering... : 010000101010 false false
+filtering... : 010011110001 false false
+filtering... : 101011010101 true false
+filtering... : 100000110111 true false
+filtering... : 101001110010 true false
+filtering... : 100011011100 true false
+filtering... : 010011100011 false false
+filtering... : 100000100111 true false
+filtering... : 110100110000 true false
+filtering... : 000100001011 false false
+filtering... : 101101011000 true false
+filtering... : 010110011001 false false
+filtering... : 010110111111 false false
+filtering... : 101110010101 true false
+filtering... : 011110001101 false false
+filtering... : 110001001000 true false
+filtering... : 001001101100 false false
+filtering... : 100111010011 true false
+filtering... : 001100010011 false false
+filtering... : 110101111001 true false
+filtering... : 100010101011 true false
+filtering... : 111010001110 true false
+filtering... : 110001100111 true false
+filtering... : 111000010010 true false
+filtering... : 001000001011 false false
+filtering... : 111001000010 true false
+filtering... : 100100100100 true false
+filtering... : 110010101001 true false
+filtering... : 111101101010 true false
+filtering... : 111111100101 true false
+filtering... : 100010010001 true false
+filtering... : 001010010110 false false
+filtering... : 111101011000 true false
+filtering... : 001010111100 false false
+filtering... : 001001111110 false false
+filtering... : 100010100110 true false
+filtering... : 100001110100 true false
+filtering... : 001111001101 false false
+filtering... : 101100100111 true false
+filtering... : 101101100101 true false
+filtering... : 100101110111 true false
+filtering... : 000111110111 false false
+filtering... : 000111001000 false false
+filtering... : 010101000010 false false
+filtering... : 011000111100 false false
+filtering... : 001001001110 false false
+filtering... : 111101010001 true false
+filtering... : 001011010101 false false
+filtering... : 100011000111 true false
+filtering... : 100000001001 true false
+filtering... : 011100011110 false false
+filtering... : 010111011011 false false
+filtering... : 011000010011 false false
+filtering... : 101101011110 true false
+filtering... : 000000100011 false false
+filtering... : 111110010010 true false
+filtering... : 111010011101 true false
+filtering... : 001000100100 false false
+filtering... : 110101100001 true false
+filtering... : 100101101000 true false
+filtering... : 001110111111 false false
+filtering... : 010001000101 false false
+filtering... : 111110000101 true false
+filtering... : 101000001101 true false
+filtering... : 110101010000 true false
+filtering... : 111110101110 true false
+filtering... : 011111011000 false false
+filtering... : 001001001111 false false
+filtering... : 000101010110 false false
+filtering... : 001100110000 false false
+filtering... : 001111101000 false false
+filtering... : 101000100101 true false
+filtering... : 010000000010 false false
+filtering... : 110011000010 true false
+filtering... : 000000001100 false false
+filtering... : 010000101011 false false
+filtering... : 010101011011 false false
+filtering... : 101011010100 true false
+filtering... : 010001011011 false false
+filtering... : 111100011001 true false
+filtering... : 100000111110 true false
+filtering... : 110001101010 true false
+filtering... : 100111101001 true false
+filtering... : 100110001110 true false
+filtering... : 110001010101 true false
+filtering... : 101100001000 true false
+filtering... : 100001000010 true false
+filtering... : 000110100001 false false
+filtering... : 001010000000 false false
+filtering... : 011111100000 false false
+filtering... : 111110101111 true false
+filtering... : 000001101001 false false
+filtering... : 000000111110 false false
+filtering... : 101111101001 true false
+filtering... : 001010000010 false false
+filtering... : 011110010010 false false
+filtering... : 101111000111 true false
+filtering... : 111110101010 true false
+filtering... : 000100001000 false false
+filtering... : 000111000000 false false
+filtering... : 110010010110 true false
+filtering... : 000001111110 false false
+filtering... : 010110101010 false false
+filtering... : 001010100011 false false
+filtering... : 001111011001 false false
+filtering... : 111001001111 true false
+filtering... : 100100010111 true false
+filtering... : 101100001011 true false
+filtering... : 100111000110 true false
+filtering... : 111010111101 true false
+filtering... : 010001011110 false false
+filtering... : 101110000011 true false
+filtering... : 010111000010 false false
+filtering... : 110110001011 true false
+filtering... : 111010100011 true false
+filtering... : 111100011101 true false
+filtering... : 101101101001 true false
+filtering... : 110100001000 true false
+filtering... : 110001011001 true false
+filtering... : 110010100001 true false
+filtering... : 111110010110 true false
+filtering... : 010100100011 false false
+filtering... : 001000011101 false false
+filtering... : 001011001010 false false
+filtering... : 011100111011 false false
+filtering... : 001111100110 false false
+filtering... : 001101100110 false false
+filtering... : 001011000001 false false
+filtering... : 010100100110 false false
+filtering... : 100100100111 true false
+filtering... : 010100011011 false false
+filtering... : 000101110001 false false
+filtering... : 010110011111 false false
+filtering... : 000001011101 false false
+filtering... : 110101011001 true false
+filtering... : 001101101010 false false
+filtering... : 011111111010 false false
+filtering... : 111001100011 true false
+filtering... : 100001000111 true false
+filtering... : 110110011111 true false
+filtering... : 100101010001 true false
+filtering... : 011100100010 false false
+filtering... : 100100011000 true false
+filtering... : 101111001011 true false
+filtering... : 111001011000 true false
+filtering... : 110000101110 true false
+filtering... : 010100100101 false false
+filtering... : 110011101000 true false
+filtering... : 001101000011 false false
+filtering... : 111101100101 true false
+filtering... : 011010011011 false false
+filtering... : 100110001101 true false
+filtering... : 111001111100 true false
+filtering... : 001000100010 false false
+filtering... : 000101111101 false false
+filtering... : 101110011000 true false
+filtering... : 001011111010 false false
+filtering... : 111100101001 true false
+filtering... : 011000101001 false false
+filtering... : 001111010111 false false
+filtering... : 001100110010 false false
+filtering... : 011000011011 false false
+filtering... : 110111011000 true false
+filtering... : 100100000110 true false
+filtering... : 011010110000 false false
+filtering... : 110111101111 true false
+filtering... : 111000111101 true false
+filtering... : 111111100110 true false
+filtering... : 000101010010 false false
+filtering... : 010101001010 false false
+filtering... : 110100110101 true false
+filtering... : 011011100101 false false
+filtering... : 110110111011 true false
+filtering... : 100010111110 true false
+filtering... : 100110111010 true false
+filtering... : 100011001010 true false
+filtering... : 100100100000 true false
+filtering... : 101000110110 true false
+filtering... : 001010101010 false false
+filtering... : 011001101111 false false
+filtering... : 001110110000 false false
+filtering... : 010001100100 false false
+filtering... : 011000100100 false false
+filtering... : 001011001011 false false
+filtering... : 110111100110 true false
+filtering... : 010110010111 false false
+filtering... : 001011011010 false false
+filtering... : 111100001010 true false
+filtering... : 000010001100 false false
+filtering... : 011010001111 false false
+filtering... : 100100001101 true false
+filtering... : 100010011100 true false
+filtering... : 000010001000 false false
+filtering... : 101001010000 true false
+filtering... : 110101001101 true false
+filtering... : 010110111100 false false
+filtering... : 101001100100 true false
+filtering... : 100000111010 true false
+filtering... : 010000010001 false false
+filtering... : 011101011101 false false
+filtering... : 100011110010 true false
+filtering... : 100100011111 true false
+filtering... : 100011100101 true false
+filtering... : 001010010010 false false
+filtering... : 000110011111 false false
+filtering... : 010000000111 false false
+filtering... : 111001101101 true false
+filtering... : 010011000010 false false
+filtering... : 000001111010 false false
+filtering... : 010010001111 false false
+filtering... : 101011100001 true false
+filtering... : 101100111100 true false
+filtering... : 100001000000 true false
+filtering... : 110111110010 true false
+filtering... : 100110000111 true false
+filtering... : 100000111011 true false
+filtering... : 111010011110 true false
+filtering... : 011011011011 false false
+filtering... : 101011000110 true false
+filtering... : 011100011001 false false
+filtering... : 000101011100 false false
+filtering... : 010000101111 false false
+filtering... : 100010100001 true false
+filtering... : 111000100101 true false
+filtering... : 011010010001 false false
+filtering... : 110110100011 true false
+filtering... : 100000011100 true false
+filtering... : 101110101101 true false
+filtering... : 000010110100 false false
+filtering... : 101011111110 true false
+filtering... : 001000100111 false false
+filtering... : 101001001010 true false
+filtering... : 001111110101 false false
+filtering... : 001001000010 false false
+filtering... : 001100101110 false false
+filtering... : 111000001000 true false
+filtering... : 000000100000 false false
+filtering... : 000100111110 false false
+filtering... : 111111110100 true false
+filtering... : 110101001100 true false
+filtering... : 001100000010 false false
+filtering... : 100011011001 true false
+filtering... : 000110000010 false false
+filtering... : 100010101101 true false
+filtering... : 111110101011 true false
+filtering... : 110100000000 true false
+filtering... : 000100111001 false false
+filtering... : 001111001011 false false
+filtering... : 110111011011 true false
+filtering... : 001111100010 false false
+filtering... : 101111011010 true false
+filtering... : 111010011011 true false
+filtering... : 100111101010 true false
+filtering... : 011011011001 false false
+filtering... : 010100000011 false false
+filtering... : 001111010001 false false
+filtering... : 101010101101 true false
+filtering... : 110000011111 true false
+filtering... : 001111111111 false false
+filtering... : 000110000100 false false
+filtering... : 101111101010 true false
+filtering... : 101011011101 true false
+filtering... : 010001011010 false false
+filtering... : 001001011011 false false
+filtering... : 101011010010 true false
+filtering... : 111010000010 true false
+filtering... : 011100101000 false false
+filtering... : 101001011010 true false
+filtering... : 000111110101 false false
+filtering... : 110011011101 true false
+filtering... : 101010010011 true false
+filtering... : 101100001111 true false
+filtering... : 111001010001 true false
+filtering... : 100100010110 true false
+filtering... : 010100100001 false false
+filtering... : 011110110101 false false
+filtering... : 110100000111 true false
+filtering... : 110101001000 true false
+filtering... : 101000010000 true false
+filtering... : 110000000011 true false
+filtering... : 011111110110 false false
+filtering... : 100001010100 true false
+filtering... : 011111000101 false false
+filtering... : 010010101001 false false
+filtering... : 000111100100 false false
+filtering... : 001010000110 false false
+filtering... : 100100110110 true false
+filtering... : 110010101101 true false
+filtering... : 010001111101 false false
+filtering... : 101100000000 true false
+filtering... : 001100000000 false false
+filtering... : 011111111110 false false
+filtering... : 110001100101 true false
+filtering... : 000111001100 false false
+filtering... : 011101111110 false false
+filtering... : 000100110000 false false
+filtering... : 111111111000 true false
+filtering... : 101110010001 true false
+filtering... : 100111000010 true false
+filtering... : 100111011110 true false
+filtering... : 000100111010 false false
+filtering... : 110101011011 true false
+filtering... : 001000111110 false false
+filtering... : 101101110110 true false
+filtering... : 110110010011 true false
+filtering... : 011010100101 false false
+filtering... : 001010101111 false false
+filtering... : 100110111001 true false
+filtering... : 010001111100 false false
+filtering... : 010110101000 false false
+filtering... : 011000000000 false false
+filtering... : 010001011111 false false
+filtering... : 010101101111 false false
+filtering... : 111001010110 true false
+filtering... : 100001001011 true false
+filtering... : 110000100111 true false
+filtering... : 011100000001 false false
+filtering... : 110101100000 true false
+filtering... : 110010110010 true false
+filtering... : 111010111001 true false
+filtering... : 011010111000 false false
+filtering... : 101100000110 true false
+filtering... : 010100011111 false false
+filtering... : 001010111000 false false
+filtering... : 101100101101 true false
+filtering... : 011000111010 false false
+filtering... : 000001001100 false false
+filtering... : 001111010010 false false
+filtering... : 011010100000 false false
+filtering... : 110100110111 true false
+filtering... : 101101000100 true false
+filtering... : 001110001101 false false
+filtering... : 111001101111 true false
+011011110010
+011101100100
+011100000101
+011110110011
+001001111111
+001000101100
+011100111010
+011100111000
+011100010001
+010111000101
+000001100100
+010010011010
+001001001100
+001110010110
+010110110010
+010011100000
+010101100110
+010001011100
+000110000110
+000001001111
+010001000111
+010100010000
+011000111101
+000101011101
+000110111110
+011000101100
+000101101011
+011001000100
+001101111000
+011010110110
+001110011111
+011110100110
+001100101100
+000110000001
+011111001111
+011000110010
+001100011111
+010011111000
+000100101010
+010000001100
+000001111000
+001110000011
+011101011001
+000001111101
+000011001011
+000001011100
+011001100000
+011010000011
+010110010101
+000011101101
+010010011000
+000010100111
+001000000111
+000000100111
+010110100111
+001010001101
+011110010001
+011001111010
+010010011011
+011110111000
+010111110000
+001110001011
+010001001011
+011001001010
+011001001101
+001101011101
+001010010011
+000010011001
+011001111101
+000100000010
+001111001000
+000100011000
+010000010100
+011000110111
+000110001101
+011111101001
+000000100010
+000001101000
+000100010101
+001000100000
+001101111101
+000000101000
+010010001000
+001010111010
+011101000000
+010011110110
+001110101001
+011110011010
+010000100001
+010010000100
+010111100111
+000101100000
+011001000011
+010110000000
+001101001110
+001100100110
+011111110011
+010000101101
+000111101101
+000011001101
+011000110000
+000001010010
+001010000100
+000011010010
+010001000001
+000000101011
+011110011011
+010010110010
+000010111110
+000111001001
+001000011100
+000000110101
+010001110000
+010101100100
+011010100001
+001100110110
+010001111110
+011111111001
+011111100011
+011000101010
+011000101101
+001000011010
+001101011001
+001111100111
+011100101001
+010100111000
+000011010111
+000000100110
+000110100100
+001011001101
+000010110110
+010101110100
+011111000111
+010001101000
+011111101100
+011111100111
+011110001011
+000001101101
+001001101001
+000001111111
+011111001011
+010010001011
+000101010011
+000001100011
+001011010111
+000001010001
+001010001011
+000010101010
+001100111000
+000010111010
+000011010001
+010111111000
+001111111010
+001111011100
+011101001011
+010100101010
+010100001111
+010000001111
+000000000010
+010011010111
+001101001011
+011001101101
+000101000110
+001101010100
+001100001000
+001001100100
+001100100100
+001110111001
+001101110111
+010101100101
+000011111110
+001000111101
+000000100101
+010100101111
+011010011100
+011111001100
+011100100011
+010111001010
+001110111010
+011010000000
+010000110100
+011010101110
+010000111100
+000101010111
+000010111000
+011101101010
+010000011010
+010011010101
+011010101010
+010111101010
+011000001110
+001011011100
+010000011110
+001001110111
+001001001011
+001111001100
+010101101011
+001111111001
+011100011000
+000001000000
+010000110110
+000100100010
+010000111101
+000000000001
+010011111100
+011011111101
+001001001001
+010101011010
+011010011111
+001111000011
+000111101000
+011000111110
+001100101101
+000100001010
+000011101000
+011010101000
+010101000111
+011000100101
+001001110001
+001000001100
+011110111010
+011111101000
+010001110011
+000011010011
+010000110010
+000011111011
+010101111110
+001000011011
+011000100000
+001010110011
+000000000000
+000110111011
+001001011001
+011101010010
+000111000011
+010001000100
+011110011111
+010010111011
+001100111101
+000001000110
+000010000010
+000111000001
+011110111111
+010101011110
+001001011101
+010110101100
+000111011110
+010111001101
+001101100010
+011101001111
+000110101110
+011110001110
+010011100101
+000100011110
+010111111111
+001000001001
+001100011001
+010111101000
+000000000110
+000011011001
+001111100100
+001011010011
+001000110011
+011100110111
+011010110010
+011001110110
+011011100010
+001110101011
+000110000101
+000001110010
+001101110010
+000110000000
+001001011111
+001010100001
+011111101111
+001000010110
+000101111110
+000100110011
+011101100001
+010011000001
+010111000011
+010111011101
+000111011011
+011000011000
+001111101101
+011111100001
+011110001100
+010011101110
+001001110000
+001001000011
+000110010000
+000100110101
+001110101000
+001011100000
+001000001111
+001011001001
+000100000000
+011100001101
+001111011101
+010000111111
+010110011110
+011110111011
+001100011000
+001011111001
+000110001011
+011011010100
+010000110111
+001100011101
+011110111001
+000010101001
+001110000001
+011111010101
+000010010100
+000101011001
+001111101011
+000111111011
+001101010110
+001100111001
+000100011101
+000100000001
+001011101111
+001011110101
+011000001101
+011110111100
+011010001101
+011010001011
+000011100111
+011000110001
+001100001111
+001100000110
+010101001111
+000011000100
+001001011000
+001001001000
+000010111101
+011100111100
+011001011011
+000011110011
+001101000111
+011010010100
+001011101001
+000110100011
+011100101010
+010100101110
+011001110000
+000010001101
+011011001111
+011110001000
+010010100011
+001101011011
+001110111011
+000110100101
+011100100101
+000010011011
+001011001100
+011001000000
+000101000101
+000001101010
+000110010001
+011100000000
+010000111010
+000101000000
+010000101010
+010011110001
+010011100011
+000100001011
+010110011001
+010110111111
+011110001101
+001001101100
+001100010011
+001000001011
+001010010110
+001010111100
+001001111110
+001111001101
+000111110111
+000111001000
+010101000010
+011000111100
+001001001110
+001011010101
+011100011110
+010111011011
+011000010011
+000000100011
+001000100100
+001110111111
+010001000101
+011111011000
+001001001111
+000101010110
+001100110000
+001111101000
+010000000010
+000000001100
+010000101011
+010101011011
+010001011011
+000110100001
+001010000000
+011111100000
+000001101001
+000000111110
+001010000010
+011110010010
+000100001000
+000111000000
+000001111110
+010110101010
+001010100011
+001111011001
+010001011110
+010111000010
+010100100011
+001000011101
+001011001010
+011100111011
+001111100110
+001101100110
+001011000001
+010100100110
+010100011011
+000101110001
+010110011111
+000001011101
+001101101010
+011111111010
+011100100010
+010100100101
+001101000011
+011010011011
+001000100010
+000101111101
+001011111010
+011000101001
+001111010111
+001100110010
+011000011011
+011010110000
+000101010010
+010101001010
+011011100101
+001010101010
+011001101111
+001110110000
+010001100100
+011000100100
+001011001011
+010110010111
+001011011010
+000010001100
+011010001111
+000010001000
+010110111100
+010000010001
+011101011101
+001010010010
+000110011111
+010000000111
+010011000010
+000001111010
+010010001111
+011011011011
+011100011001
+000101011100
+010000101111
+011010010001
+000010110100
+001000100111
+001111110101
+001001000010
+001100101110
+000000100000
+000100111110
+001100000010
+000110000010
+000100111001
+001111001011
+001111100010
+011011011001
+010100000011
+001111010001
+001111111111
+000110000100
+010001011010
+001001011011
+011100101000
+000111110101
+010100100001
+011110110101
+011111110110
+011111000101
+010010101001
+000111100100
+001010000110
+010001111101
+001100000000
+011111111110
+000111001100
+011101111110
+000100110000
+000100111010
+001000111110
+011010100101
+001010101111
+010001111100
+010110101000
+011000000000
+010001011111
+010101101111
+011100000001
+011010111000
+010100011111
+001010111000
+011000111010
+000001001100
+001111010010
+011010100000
+001110001101
+-----
+round we go
+position : 10
+gamma_map : [false, false, true, false, false, false, true, false, true, false, true, true]
+gamma bit : false
+filtering... : 011011110010 true false
+filtering... : 011101100100 true false
+filtering... : 011100000101 true false
+filtering... : 011110110011 true false
+filtering... : 001001111111 false false
+filtering... : 001000101100 false false
+filtering... : 011100111010 true false
+filtering... : 011100111000 true false
+filtering... : 011100010001 true false
+filtering... : 010111000101 true false
+filtering... : 000001100100 false false
+filtering... : 010010011010 true false
+filtering... : 001001001100 false false
+filtering... : 001110010110 false false
+filtering... : 010110110010 true false
+filtering... : 010011100000 true false
+filtering... : 010101100110 true false
+filtering... : 010001011100 true false
+filtering... : 000110000110 false false
+filtering... : 000001001111 false false
+filtering... : 010001000111 true false
+filtering... : 010100010000 true false
+filtering... : 011000111101 true false
+filtering... : 000101011101 false false
+filtering... : 000110111110 false false
+filtering... : 011000101100 true false
+filtering... : 000101101011 false false
+filtering... : 011001000100 true false
+filtering... : 001101111000 false false
+filtering... : 011010110110 true false
+filtering... : 001110011111 false false
+filtering... : 011110100110 true false
+filtering... : 001100101100 false false
+filtering... : 000110000001 false false
+filtering... : 011111001111 true false
+filtering... : 011000110010 true false
+filtering... : 001100011111 false false
+filtering... : 010011111000 true false
+filtering... : 000100101010 false false
+filtering... : 010000001100 true false
+filtering... : 000001111000 false false
+filtering... : 001110000011 false false
+filtering... : 011101011001 true false
+filtering... : 000001111101 false false
+filtering... : 000011001011 false false
+filtering... : 000001011100 false false
+filtering... : 011001100000 true false
+filtering... : 011010000011 true false
+filtering... : 010110010101 true false
+filtering... : 000011101101 false false
+filtering... : 010010011000 true false
+filtering... : 000010100111 false false
+filtering... : 001000000111 false false
+filtering... : 000000100111 false false
+filtering... : 010110100111 true false
+filtering... : 001010001101 false false
+filtering... : 011110010001 true false
+filtering... : 011001111010 true false
+filtering... : 010010011011 true false
+filtering... : 011110111000 true false
+filtering... : 010111110000 true false
+filtering... : 001110001011 false false
+filtering... : 010001001011 true false
+filtering... : 011001001010 true false
+filtering... : 011001001101 true false
+filtering... : 001101011101 false false
+filtering... : 001010010011 false false
+filtering... : 000010011001 false false
+filtering... : 011001111101 true false
+filtering... : 000100000010 false false
+filtering... : 001111001000 false false
+filtering... : 000100011000 false false
+filtering... : 010000010100 true false
+filtering... : 011000110111 true false
+filtering... : 000110001101 false false
+filtering... : 011111101001 true false
+filtering... : 000000100010 false false
+filtering... : 000001101000 false false
+filtering... : 000100010101 false false
+filtering... : 001000100000 false false
+filtering... : 001101111101 false false
+filtering... : 000000101000 false false
+filtering... : 010010001000 true false
+filtering... : 001010111010 false false
+filtering... : 011101000000 true false
+filtering... : 010011110110 true false
+filtering... : 001110101001 false false
+filtering... : 011110011010 true false
+filtering... : 010000100001 true false
+filtering... : 010010000100 true false
+filtering... : 010111100111 true false
+filtering... : 000101100000 false false
+filtering... : 011001000011 true false
+filtering... : 010110000000 true false
+filtering... : 001101001110 false false
+filtering... : 001100100110 false false
+filtering... : 011111110011 true false
+filtering... : 010000101101 true false
+filtering... : 000111101101 false false
+filtering... : 000011001101 false false
+filtering... : 011000110000 true false
+filtering... : 000001010010 false false
+filtering... : 001010000100 false false
+filtering... : 000011010010 false false
+filtering... : 010001000001 true false
+filtering... : 000000101011 false false
+filtering... : 011110011011 true false
+filtering... : 010010110010 true false
+filtering... : 000010111110 false false
+filtering... : 000111001001 false false
+filtering... : 001000011100 false false
+filtering... : 000000110101 false false
+filtering... : 010001110000 true false
+filtering... : 010101100100 true false
+filtering... : 011010100001 true false
+filtering... : 001100110110 false false
+filtering... : 010001111110 true false
+filtering... : 011111111001 true false
+filtering... : 011111100011 true false
+filtering... : 011000101010 true false
+filtering... : 011000101101 true false
+filtering... : 001000011010 false false
+filtering... : 001101011001 false false
+filtering... : 001111100111 false false
+filtering... : 011100101001 true false
+filtering... : 010100111000 true false
+filtering... : 000011010111 false false
+filtering... : 000000100110 false false
+filtering... : 000110100100 false false
+filtering... : 001011001101 false false
+filtering... : 000010110110 false false
+filtering... : 010101110100 true false
+filtering... : 011111000111 true false
+filtering... : 010001101000 true false
+filtering... : 011111101100 true false
+filtering... : 011111100111 true false
+filtering... : 011110001011 true false
+filtering... : 000001101101 false false
+filtering... : 001001101001 false false
+filtering... : 000001111111 false false
+filtering... : 011111001011 true false
+filtering... : 010010001011 true false
+filtering... : 000101010011 false false
+filtering... : 000001100011 false false
+filtering... : 001011010111 false false
+filtering... : 000001010001 false false
+filtering... : 001010001011 false false
+filtering... : 000010101010 false false
+filtering... : 001100111000 false false
+filtering... : 000010111010 false false
+filtering... : 000011010001 false false
+filtering... : 010111111000 true false
+filtering... : 001111111010 false false
+filtering... : 001111011100 false false
+filtering... : 011101001011 true false
+filtering... : 010100101010 true false
+filtering... : 010100001111 true false
+filtering... : 010000001111 true false
+filtering... : 000000000010 false false
+filtering... : 010011010111 true false
+filtering... : 001101001011 false false
+filtering... : 011001101101 true false
+filtering... : 000101000110 false false
+filtering... : 001101010100 false false
+filtering... : 001100001000 false false
+filtering... : 001001100100 false false
+filtering... : 001100100100 false false
+filtering... : 001110111001 false false
+filtering... : 001101110111 false false
+filtering... : 010101100101 true false
+filtering... : 000011111110 false false
+filtering... : 001000111101 false false
+filtering... : 000000100101 false false
+filtering... : 010100101111 true false
+filtering... : 011010011100 true false
+filtering... : 011111001100 true false
+filtering... : 011100100011 true false
+filtering... : 010111001010 true false
+filtering... : 001110111010 false false
+filtering... : 011010000000 true false
+filtering... : 010000110100 true false
+filtering... : 011010101110 true false
+filtering... : 010000111100 true false
+filtering... : 000101010111 false false
+filtering... : 000010111000 false false
+filtering... : 011101101010 true false
+filtering... : 010000011010 true false
+filtering... : 010011010101 true false
+filtering... : 011010101010 true false
+filtering... : 010111101010 true false
+filtering... : 011000001110 true false
+filtering... : 001011011100 false false
+filtering... : 010000011110 true false
+filtering... : 001001110111 false false
+filtering... : 001001001011 false false
+filtering... : 001111001100 false false
+filtering... : 010101101011 true false
+filtering... : 001111111001 false false
+filtering... : 011100011000 true false
+filtering... : 000001000000 false false
+filtering... : 010000110110 true false
+filtering... : 000100100010 false false
+filtering... : 010000111101 true false
+filtering... : 000000000001 false false
+filtering... : 010011111100 true false
+filtering... : 011011111101 true false
+filtering... : 001001001001 false false
+filtering... : 010101011010 true false
+filtering... : 011010011111 true false
+filtering... : 001111000011 false false
+filtering... : 000111101000 false false
+filtering... : 011000111110 true false
+filtering... : 001100101101 false false
+filtering... : 000100001010 false false
+filtering... : 000011101000 false false
+filtering... : 011010101000 true false
+filtering... : 010101000111 true false
+filtering... : 011000100101 true false
+filtering... : 001001110001 false false
+filtering... : 001000001100 false false
+filtering... : 011110111010 true false
+filtering... : 011111101000 true false
+filtering... : 010001110011 true false
+filtering... : 000011010011 false false
+filtering... : 010000110010 true false
+filtering... : 000011111011 false false
+filtering... : 010101111110 true false
+filtering... : 001000011011 false false
+filtering... : 011000100000 true false
+filtering... : 001010110011 false false
+filtering... : 000000000000 false false
+filtering... : 000110111011 false false
+filtering... : 001001011001 false false
+filtering... : 011101010010 true false
+filtering... : 000111000011 false false
+filtering... : 010001000100 true false
+filtering... : 011110011111 true false
+filtering... : 010010111011 true false
+filtering... : 001100111101 false false
+filtering... : 000001000110 false false
+filtering... : 000010000010 false false
+filtering... : 000111000001 false false
+filtering... : 011110111111 true false
+filtering... : 010101011110 true false
+filtering... : 001001011101 false false
+filtering... : 010110101100 true false
+filtering... : 000111011110 false false
+filtering... : 010111001101 true false
+filtering... : 001101100010 false false
+filtering... : 011101001111 true false
+filtering... : 000110101110 false false
+filtering... : 011110001110 true false
+filtering... : 010011100101 true false
+filtering... : 000100011110 false false
+filtering... : 010111111111 true false
+filtering... : 001000001001 false false
+filtering... : 001100011001 false false
+filtering... : 010111101000 true false
+filtering... : 000000000110 false false
+filtering... : 000011011001 false false
+filtering... : 001111100100 false false
+filtering... : 001011010011 false false
+filtering... : 001000110011 false false
+filtering... : 011100110111 true false
+filtering... : 011010110010 true false
+filtering... : 011001110110 true false
+filtering... : 011011100010 true false
+filtering... : 001110101011 false false
+filtering... : 000110000101 false false
+filtering... : 000001110010 false false
+filtering... : 001101110010 false false
+filtering... : 000110000000 false false
+filtering... : 001001011111 false false
+filtering... : 001010100001 false false
+filtering... : 011111101111 true false
+filtering... : 001000010110 false false
+filtering... : 000101111110 false false
+filtering... : 000100110011 false false
+filtering... : 011101100001 true false
+filtering... : 010011000001 true false
+filtering... : 010111000011 true false
+filtering... : 010111011101 true false
+filtering... : 000111011011 false false
+filtering... : 011000011000 true false
+filtering... : 001111101101 false false
+filtering... : 011111100001 true false
+filtering... : 011110001100 true false
+filtering... : 010011101110 true false
+filtering... : 001001110000 false false
+filtering... : 001001000011 false false
+filtering... : 000110010000 false false
+filtering... : 000100110101 false false
+filtering... : 001110101000 false false
+filtering... : 001011100000 false false
+filtering... : 001000001111 false false
+filtering... : 001011001001 false false
+filtering... : 000100000000 false false
+filtering... : 011100001101 true false
+filtering... : 001111011101 false false
+filtering... : 010000111111 true false
+filtering... : 010110011110 true false
+filtering... : 011110111011 true false
+filtering... : 001100011000 false false
+filtering... : 001011111001 false false
+filtering... : 000110001011 false false
+filtering... : 011011010100 true false
+filtering... : 010000110111 true false
+filtering... : 001100011101 false false
+filtering... : 011110111001 true false
+filtering... : 000010101001 false false
+filtering... : 001110000001 false false
+filtering... : 011111010101 true false
+filtering... : 000010010100 false false
+filtering... : 000101011001 false false
+filtering... : 001111101011 false false
+filtering... : 000111111011 false false
+filtering... : 001101010110 false false
+filtering... : 001100111001 false false
+filtering... : 000100011101 false false
+filtering... : 000100000001 false false
+filtering... : 001011101111 false false
+filtering... : 001011110101 false false
+filtering... : 011000001101 true false
+filtering... : 011110111100 true false
+filtering... : 011010001101 true false
+filtering... : 011010001011 true false
+filtering... : 000011100111 false false
+filtering... : 011000110001 true false
+filtering... : 001100001111 false false
+filtering... : 001100000110 false false
+filtering... : 010101001111 true false
+filtering... : 000011000100 false false
+filtering... : 001001011000 false false
+filtering... : 001001001000 false false
+filtering... : 000010111101 false false
+filtering... : 011100111100 true false
+filtering... : 011001011011 true false
+filtering... : 000011110011 false false
+filtering... : 001101000111 false false
+filtering... : 011010010100 true false
+filtering... : 001011101001 false false
+filtering... : 000110100011 false false
+filtering... : 011100101010 true false
+filtering... : 010100101110 true false
+filtering... : 011001110000 true false
+filtering... : 000010001101 false false
+filtering... : 011011001111 true false
+filtering... : 011110001000 true false
+filtering... : 010010100011 true false
+filtering... : 001101011011 false false
+filtering... : 001110111011 false false
+filtering... : 000110100101 false false
+filtering... : 011100100101 true false
+filtering... : 000010011011 false false
+filtering... : 001011001100 false false
+filtering... : 011001000000 true false
+filtering... : 000101000101 false false
+filtering... : 000001101010 false false
+filtering... : 000110010001 false false
+filtering... : 011100000000 true false
+filtering... : 010000111010 true false
+filtering... : 000101000000 false false
+filtering... : 010000101010 true false
+filtering... : 010011110001 true false
+filtering... : 010011100011 true false
+filtering... : 000100001011 false false
+filtering... : 010110011001 true false
+filtering... : 010110111111 true false
+filtering... : 011110001101 true false
+filtering... : 001001101100 false false
+filtering... : 001100010011 false false
+filtering... : 001000001011 false false
+filtering... : 001010010110 false false
+filtering... : 001010111100 false false
+filtering... : 001001111110 false false
+filtering... : 001111001101 false false
+filtering... : 000111110111 false false
+filtering... : 000111001000 false false
+filtering... : 010101000010 true false
+filtering... : 011000111100 true false
+filtering... : 001001001110 false false
+filtering... : 001011010101 false false
+filtering... : 011100011110 true false
+filtering... : 010111011011 true false
+filtering... : 011000010011 true false
+filtering... : 000000100011 false false
+filtering... : 001000100100 false false
+filtering... : 001110111111 false false
+filtering... : 010001000101 true false
+filtering... : 011111011000 true false
+filtering... : 001001001111 false false
+filtering... : 000101010110 false false
+filtering... : 001100110000 false false
+filtering... : 001111101000 false false
+filtering... : 010000000010 true false
+filtering... : 000000001100 false false
+filtering... : 010000101011 true false
+filtering... : 010101011011 true false
+filtering... : 010001011011 true false
+filtering... : 000110100001 false false
+filtering... : 001010000000 false false
+filtering... : 011111100000 true false
+filtering... : 000001101001 false false
+filtering... : 000000111110 false false
+filtering... : 001010000010 false false
+filtering... : 011110010010 true false
+filtering... : 000100001000 false false
+filtering... : 000111000000 false false
+filtering... : 000001111110 false false
+filtering... : 010110101010 true false
+filtering... : 001010100011 false false
+filtering... : 001111011001 false false
+filtering... : 010001011110 true false
+filtering... : 010111000010 true false
+filtering... : 010100100011 true false
+filtering... : 001000011101 false false
+filtering... : 001011001010 false false
+filtering... : 011100111011 true false
+filtering... : 001111100110 false false
+filtering... : 001101100110 false false
+filtering... : 001011000001 false false
+filtering... : 010100100110 true false
+filtering... : 010100011011 true false
+filtering... : 000101110001 false false
+filtering... : 010110011111 true false
+filtering... : 000001011101 false false
+filtering... : 001101101010 false false
+filtering... : 011111111010 true false
+filtering... : 011100100010 true false
+filtering... : 010100100101 true false
+filtering... : 001101000011 false false
+filtering... : 011010011011 true false
+filtering... : 001000100010 false false
+filtering... : 000101111101 false false
+filtering... : 001011111010 false false
+filtering... : 011000101001 true false
+filtering... : 001111010111 false false
+filtering... : 001100110010 false false
+filtering... : 011000011011 true false
+filtering... : 011010110000 true false
+filtering... : 000101010010 false false
+filtering... : 010101001010 true false
+filtering... : 011011100101 true false
+filtering... : 001010101010 false false
+filtering... : 011001101111 true false
+filtering... : 001110110000 false false
+filtering... : 010001100100 true false
+filtering... : 011000100100 true false
+filtering... : 001011001011 false false
+filtering... : 010110010111 true false
+filtering... : 001011011010 false false
+filtering... : 000010001100 false false
+filtering... : 011010001111 true false
+filtering... : 000010001000 false false
+filtering... : 010110111100 true false
+filtering... : 010000010001 true false
+filtering... : 011101011101 true false
+filtering... : 001010010010 false false
+filtering... : 000110011111 false false
+filtering... : 010000000111 true false
+filtering... : 010011000010 true false
+filtering... : 000001111010 false false
+filtering... : 010010001111 true false
+filtering... : 011011011011 true false
+filtering... : 011100011001 true false
+filtering... : 000101011100 false false
+filtering... : 010000101111 true false
+filtering... : 011010010001 true false
+filtering... : 000010110100 false false
+filtering... : 001000100111 false false
+filtering... : 001111110101 false false
+filtering... : 001001000010 false false
+filtering... : 001100101110 false false
+filtering... : 000000100000 false false
+filtering... : 000100111110 false false
+filtering... : 001100000010 false false
+filtering... : 000110000010 false false
+filtering... : 000100111001 false false
+filtering... : 001111001011 false false
+filtering... : 001111100010 false false
+filtering... : 011011011001 true false
+filtering... : 010100000011 true false
+filtering... : 001111010001 false false
+filtering... : 001111111111 false false
+filtering... : 000110000100 false false
+filtering... : 010001011010 true false
+filtering... : 001001011011 false false
+filtering... : 011100101000 true false
+filtering... : 000111110101 false false
+filtering... : 010100100001 true false
+filtering... : 011110110101 true false
+filtering... : 011111110110 true false
+filtering... : 011111000101 true false
+filtering... : 010010101001 true false
+filtering... : 000111100100 false false
+filtering... : 001010000110 false false
+filtering... : 010001111101 true false
+filtering... : 001100000000 false false
+filtering... : 011111111110 true false
+filtering... : 000111001100 false false
+filtering... : 011101111110 true false
+filtering... : 000100110000 false false
+filtering... : 000100111010 false false
+filtering... : 001000111110 false false
+filtering... : 011010100101 true false
+filtering... : 001010101111 false false
+filtering... : 010001111100 true false
+filtering... : 010110101000 true false
+filtering... : 011000000000 true false
+filtering... : 010001011111 true false
+filtering... : 010101101111 true false
+filtering... : 011100000001 true false
+filtering... : 011010111000 true false
+filtering... : 010100011111 true false
+filtering... : 001010111000 false false
+filtering... : 011000111010 true false
+filtering... : 000001001100 false false
+filtering... : 001111010010 false false
+filtering... : 011010100000 true false
+filtering... : 001110001101 false false
+001001111111
+001000101100
+000001100100
+001001001100
+001110010110
+000110000110
+000001001111
+000101011101
+000110111110
+000101101011
+001101111000
+001110011111
+001100101100
+000110000001
+001100011111
+000100101010
+000001111000
+001110000011
+000001111101
+000011001011
+000001011100
+000011101101
+000010100111
+001000000111
+000000100111
+001010001101
+001110001011
+001101011101
+001010010011
+000010011001
+000100000010
+001111001000
+000100011000
+000110001101
+000000100010
+000001101000
+000100010101
+001000100000
+001101111101
+000000101000
+001010111010
+001110101001
+000101100000
+001101001110
+001100100110
+000111101101
+000011001101
+000001010010
+001010000100
+000011010010
+000000101011
+000010111110
+000111001001
+001000011100
+000000110101
+001100110110
+001000011010
+001101011001
+001111100111
+000011010111
+000000100110
+000110100100
+001011001101
+000010110110
+000001101101
+001001101001
+000001111111
+000101010011
+000001100011
+001011010111
+000001010001
+001010001011
+000010101010
+001100111000
+000010111010
+000011010001
+001111111010
+001111011100
+000000000010
+001101001011
+000101000110
+001101010100
+001100001000
+001001100100
+001100100100
+001110111001
+001101110111
+000011111110
+001000111101
+000000100101
+001110111010
+000101010111
+000010111000
+001011011100
+001001110111
+001001001011
+001111001100
+001111111001
+000001000000
+000100100010
+000000000001
+001001001001
+001111000011
+000111101000
+001100101101
+000100001010
+000011101000
+001001110001
+001000001100
+000011010011
+000011111011
+001000011011
+001010110011
+000000000000
+000110111011
+001001011001
+000111000011
+001100111101
+000001000110
+000010000010
+000111000001
+001001011101
+000111011110
+001101100010
+000110101110
+000100011110
+001000001001
+001100011001
+000000000110
+000011011001
+001111100100
+001011010011
+001000110011
+001110101011
+000110000101
+000001110010
+001101110010
+000110000000
+001001011111
+001010100001
+001000010110
+000101111110
+000100110011
+000111011011
+001111101101
+001001110000
+001001000011
+000110010000
+000100110101
+001110101000
+001011100000
+001000001111
+001011001001
+000100000000
+001111011101
+001100011000
+001011111001
+000110001011
+001100011101
+000010101001
+001110000001
+000010010100
+000101011001
+001111101011
+000111111011
+001101010110
+001100111001
+000100011101
+000100000001
+001011101111
+001011110101
+000011100111
+001100001111
+001100000110
+000011000100
+001001011000
+001001001000
+000010111101
+000011110011
+001101000111
+001011101001
+000110100011
+000010001101
+001101011011
+001110111011
+000110100101
+000010011011
+001011001100
+000101000101
+000001101010
+000110010001
+000101000000
+000100001011
+001001101100
+001100010011
+001000001011
+001010010110
+001010111100
+001001111110
+001111001101
+000111110111
+000111001000
+001001001110
+001011010101
+000000100011
+001000100100
+001110111111
+001001001111
+000101010110
+001100110000
+001111101000
+000000001100
+000110100001
+001010000000
+000001101001
+000000111110
+001010000010
+000100001000
+000111000000
+000001111110
+001010100011
+001111011001
+001000011101
+001011001010
+001111100110
+001101100110
+001011000001
+000101110001
+000001011101
+001101101010
+001101000011
+001000100010
+000101111101
+001011111010
+001111010111
+001100110010
+000101010010
+001010101010
+001110110000
+001011001011
+001011011010
+000010001100
+000010001000
+001010010010
+000110011111
+000001111010
+000101011100
+000010110100
+001000100111
+001111110101
+001001000010
+001100101110
+000000100000
+000100111110
+001100000010
+000110000010
+000100111001
+001111001011
+001111100010
+001111010001
+001111111111
+000110000100
+001001011011
+000111110101
+000111100100
+001010000110
+001100000000
+000111001100
+000100110000
+000100111010
+001000111110
+001010101111
+001010111000
+000001001100
+001111010010
+001110001101
+-----
+round we go
+position : 9
+gamma_map : [false, false, true, true, false, true, false, false, true, false, false, true]
+gamma bit : true
+filtering... : 001001111111 true true
+filtering... : 001000101100 true true
+filtering... : 000001100100 false true
+filtering... : 001001001100 true true
+filtering... : 001110010110 true true
+filtering... : 000110000110 false true
+filtering... : 000001001111 false true
+filtering... : 000101011101 false true
+filtering... : 000110111110 false true
+filtering... : 000101101011 false true
+filtering... : 001101111000 true true
+filtering... : 001110011111 true true
+filtering... : 001100101100 true true
+filtering... : 000110000001 false true
+filtering... : 001100011111 true true
+filtering... : 000100101010 false true
+filtering... : 000001111000 false true
+filtering... : 001110000011 true true
+filtering... : 000001111101 false true
+filtering... : 000011001011 false true
+filtering... : 000001011100 false true
+filtering... : 000011101101 false true
+filtering... : 000010100111 false true
+filtering... : 001000000111 true true
+filtering... : 000000100111 false true
+filtering... : 001010001101 true true
+filtering... : 001110001011 true true
+filtering... : 001101011101 true true
+filtering... : 001010010011 true true
+filtering... : 000010011001 false true
+filtering... : 000100000010 false true
+filtering... : 001111001000 true true
+filtering... : 000100011000 false true
+filtering... : 000110001101 false true
+filtering... : 000000100010 false true
+filtering... : 000001101000 false true
+filtering... : 000100010101 false true
+filtering... : 001000100000 true true
+filtering... : 001101111101 true true
+filtering... : 000000101000 false true
+filtering... : 001010111010 true true
+filtering... : 001110101001 true true
+filtering... : 000101100000 false true
+filtering... : 001101001110 true true
+filtering... : 001100100110 true true
+filtering... : 000111101101 false true
+filtering... : 000011001101 false true
+filtering... : 000001010010 false true
+filtering... : 001010000100 true true
+filtering... : 000011010010 false true
+filtering... : 000000101011 false true
+filtering... : 000010111110 false true
+filtering... : 000111001001 false true
+filtering... : 001000011100 true true
+filtering... : 000000110101 false true
+filtering... : 001100110110 true true
+filtering... : 001000011010 true true
+filtering... : 001101011001 true true
+filtering... : 001111100111 true true
+filtering... : 000011010111 false true
+filtering... : 000000100110 false true
+filtering... : 000110100100 false true
+filtering... : 001011001101 true true
+filtering... : 000010110110 false true
+filtering... : 000001101101 false true
+filtering... : 001001101001 true true
+filtering... : 000001111111 false true
+filtering... : 000101010011 false true
+filtering... : 000001100011 false true
+filtering... : 001011010111 true true
+filtering... : 000001010001 false true
+filtering... : 001010001011 true true
+filtering... : 000010101010 false true
+filtering... : 001100111000 true true
+filtering... : 000010111010 false true
+filtering... : 000011010001 false true
+filtering... : 001111111010 true true
+filtering... : 001111011100 true true
+filtering... : 000000000010 false true
+filtering... : 001101001011 true true
+filtering... : 000101000110 false true
+filtering... : 001101010100 true true
+filtering... : 001100001000 true true
+filtering... : 001001100100 true true
+filtering... : 001100100100 true true
+filtering... : 001110111001 true true
+filtering... : 001101110111 true true
+filtering... : 000011111110 false true
+filtering... : 001000111101 true true
+filtering... : 000000100101 false true
+filtering... : 001110111010 true true
+filtering... : 000101010111 false true
+filtering... : 000010111000 false true
+filtering... : 001011011100 true true
+filtering... : 001001110111 true true
+filtering... : 001001001011 true true
+filtering... : 001111001100 true true
+filtering... : 001111111001 true true
+filtering... : 000001000000 false true
+filtering... : 000100100010 false true
+filtering... : 000000000001 false true
+filtering... : 001001001001 true true
+filtering... : 001111000011 true true
+filtering... : 000111101000 false true
+filtering... : 001100101101 true true
+filtering... : 000100001010 false true
+filtering... : 000011101000 false true
+filtering... : 001001110001 true true
+filtering... : 001000001100 true true
+filtering... : 000011010011 false true
+filtering... : 000011111011 false true
+filtering... : 001000011011 true true
+filtering... : 001010110011 true true
+filtering... : 000000000000 false true
+filtering... : 000110111011 false true
+filtering... : 001001011001 true true
+filtering... : 000111000011 false true
+filtering... : 001100111101 true true
+filtering... : 000001000110 false true
+filtering... : 000010000010 false true
+filtering... : 000111000001 false true
+filtering... : 001001011101 true true
+filtering... : 000111011110 false true
+filtering... : 001101100010 true true
+filtering... : 000110101110 false true
+filtering... : 000100011110 false true
+filtering... : 001000001001 true true
+filtering... : 001100011001 true true
+filtering... : 000000000110 false true
+filtering... : 000011011001 false true
+filtering... : 001111100100 true true
+filtering... : 001011010011 true true
+filtering... : 001000110011 true true
+filtering... : 001110101011 true true
+filtering... : 000110000101 false true
+filtering... : 000001110010 false true
+filtering... : 001101110010 true true
+filtering... : 000110000000 false true
+filtering... : 001001011111 true true
+filtering... : 001010100001 true true
+filtering... : 001000010110 true true
+filtering... : 000101111110 false true
+filtering... : 000100110011 false true
+filtering... : 000111011011 false true
+filtering... : 001111101101 true true
+filtering... : 001001110000 true true
+filtering... : 001001000011 true true
+filtering... : 000110010000 false true
+filtering... : 000100110101 false true
+filtering... : 001110101000 true true
+filtering... : 001011100000 true true
+filtering... : 001000001111 true true
+filtering... : 001011001001 true true
+filtering... : 000100000000 false true
+filtering... : 001111011101 true true
+filtering... : 001100011000 true true
+filtering... : 001011111001 true true
+filtering... : 000110001011 false true
+filtering... : 001100011101 true true
+filtering... : 000010101001 false true
+filtering... : 001110000001 true true
+filtering... : 000010010100 false true
+filtering... : 000101011001 false true
+filtering... : 001111101011 true true
+filtering... : 000111111011 false true
+filtering... : 001101010110 true true
+filtering... : 001100111001 true true
+filtering... : 000100011101 false true
+filtering... : 000100000001 false true
+filtering... : 001011101111 true true
+filtering... : 001011110101 true true
+filtering... : 000011100111 false true
+filtering... : 001100001111 true true
+filtering... : 001100000110 true true
+filtering... : 000011000100 false true
+filtering... : 001001011000 true true
+filtering... : 001001001000 true true
+filtering... : 000010111101 false true
+filtering... : 000011110011 false true
+filtering... : 001101000111 true true
+filtering... : 001011101001 true true
+filtering... : 000110100011 false true
+filtering... : 000010001101 false true
+filtering... : 001101011011 true true
+filtering... : 001110111011 true true
+filtering... : 000110100101 false true
+filtering... : 000010011011 false true
+filtering... : 001011001100 true true
+filtering... : 000101000101 false true
+filtering... : 000001101010 false true
+filtering... : 000110010001 false true
+filtering... : 000101000000 false true
+filtering... : 000100001011 false true
+filtering... : 001001101100 true true
+filtering... : 001100010011 true true
+filtering... : 001000001011 true true
+filtering... : 001010010110 true true
+filtering... : 001010111100 true true
+filtering... : 001001111110 true true
+filtering... : 001111001101 true true
+filtering... : 000111110111 false true
+filtering... : 000111001000 false true
+filtering... : 001001001110 true true
+filtering... : 001011010101 true true
+filtering... : 000000100011 false true
+filtering... : 001000100100 true true
+filtering... : 001110111111 true true
+filtering... : 001001001111 true true
+filtering... : 000101010110 false true
+filtering... : 001100110000 true true
+filtering... : 001111101000 true true
+filtering... : 000000001100 false true
+filtering... : 000110100001 false true
+filtering... : 001010000000 true true
+filtering... : 000001101001 false true
+filtering... : 000000111110 false true
+filtering... : 001010000010 true true
+filtering... : 000100001000 false true
+filtering... : 000111000000 false true
+filtering... : 000001111110 false true
+filtering... : 001010100011 true true
+filtering... : 001111011001 true true
+filtering... : 001000011101 true true
+filtering... : 001011001010 true true
+filtering... : 001111100110 true true
+filtering... : 001101100110 true true
+filtering... : 001011000001 true true
+filtering... : 000101110001 false true
+filtering... : 000001011101 false true
+filtering... : 001101101010 true true
+filtering... : 001101000011 true true
+filtering... : 001000100010 true true
+filtering... : 000101111101 false true
+filtering... : 001011111010 true true
+filtering... : 001111010111 true true
+filtering... : 001100110010 true true
+filtering... : 000101010010 false true
+filtering... : 001010101010 true true
+filtering... : 001110110000 true true
+filtering... : 001011001011 true true
+filtering... : 001011011010 true true
+filtering... : 000010001100 false true
+filtering... : 000010001000 false true
+filtering... : 001010010010 true true
+filtering... : 000110011111 false true
+filtering... : 000001111010 false true
+filtering... : 000101011100 false true
+filtering... : 000010110100 false true
+filtering... : 001000100111 true true
+filtering... : 001111110101 true true
+filtering... : 001001000010 true true
+filtering... : 001100101110 true true
+filtering... : 000000100000 false true
+filtering... : 000100111110 false true
+filtering... : 001100000010 true true
+filtering... : 000110000010 false true
+filtering... : 000100111001 false true
+filtering... : 001111001011 true true
+filtering... : 001111100010 true true
+filtering... : 001111010001 true true
+filtering... : 001111111111 true true
+filtering... : 000110000100 false true
+filtering... : 001001011011 true true
+filtering... : 000111110101 false true
+filtering... : 000111100100 false true
+filtering... : 001010000110 true true
+filtering... : 001100000000 true true
+filtering... : 000111001100 false true
+filtering... : 000100110000 false true
+filtering... : 000100111010 false true
+filtering... : 001000111110 true true
+filtering... : 001010101111 true true
+filtering... : 001010111000 true true
+filtering... : 000001001100 false true
+filtering... : 001111010010 true true
+filtering... : 001110001101 true true
+001001111111
+001000101100
+001001001100
+001110010110
+001101111000
+001110011111
+001100101100
+001100011111
+001110000011
+001000000111
+001010001101
+001110001011
+001101011101
+001010010011
+001111001000
+001000100000
+001101111101
+001010111010
+001110101001
+001101001110
+001100100110
+001010000100
+001000011100
+001100110110
+001000011010
+001101011001
+001111100111
+001011001101
+001001101001
+001011010111
+001010001011
+001100111000
+001111111010
+001111011100
+001101001011
+001101010100
+001100001000
+001001100100
+001100100100
+001110111001
+001101110111
+001000111101
+001110111010
+001011011100
+001001110111
+001001001011
+001111001100
+001111111001
+001001001001
+001111000011
+001100101101
+001001110001
+001000001100
+001000011011
+001010110011
+001001011001
+001100111101
+001001011101
+001101100010
+001000001001
+001100011001
+001111100100
+001011010011
+001000110011
+001110101011
+001101110010
+001001011111
+001010100001
+001000010110
+001111101101
+001001110000
+001001000011
+001110101000
+001011100000
+001000001111
+001011001001
+001111011101
+001100011000
+001011111001
+001100011101
+001110000001
+001111101011
+001101010110
+001100111001
+001011101111
+001011110101
+001100001111
+001100000110
+001001011000
+001001001000
+001101000111
+001011101001
+001101011011
+001110111011
+001011001100
+001001101100
+001100010011
+001000001011
+001010010110
+001010111100
+001001111110
+001111001101
+001001001110
+001011010101
+001000100100
+001110111111
+001001001111
+001100110000
+001111101000
+001010000000
+001010000010
+001010100011
+001111011001
+001000011101
+001011001010
+001111100110
+001101100110
+001011000001
+001101101010
+001101000011
+001000100010
+001011111010
+001111010111
+001100110010
+001010101010
+001110110000
+001011001011
+001011011010
+001010010010
+001000100111
+001111110101
+001001000010
+001100101110
+001100000010
+001111001011
+001111100010
+001111010001
+001111111111
+001001011011
+001010000110
+001100000000
+001000111110
+001010101111
+001010111000
+001111010010
+001110001101
+-----
+round we go
+position : 8
+gamma_map : [false, false, true, true, false, true, false, false, true, false, true, true]
+gamma bit : true
+filtering... : 001001111111 false true
+filtering... : 001000101100 false true
+filtering... : 001001001100 false true
+filtering... : 001110010110 true true
+filtering... : 001101111000 true true
+filtering... : 001110011111 true true
+filtering... : 001100101100 true true
+filtering... : 001100011111 true true
+filtering... : 001110000011 true true
+filtering... : 001000000111 false true
+filtering... : 001010001101 false true
+filtering... : 001110001011 true true
+filtering... : 001101011101 true true
+filtering... : 001010010011 false true
+filtering... : 001111001000 true true
+filtering... : 001000100000 false true
+filtering... : 001101111101 true true
+filtering... : 001010111010 false true
+filtering... : 001110101001 true true
+filtering... : 001101001110 true true
+filtering... : 001100100110 true true
+filtering... : 001010000100 false true
+filtering... : 001000011100 false true
+filtering... : 001100110110 true true
+filtering... : 001000011010 false true
+filtering... : 001101011001 true true
+filtering... : 001111100111 true true
+filtering... : 001011001101 false true
+filtering... : 001001101001 false true
+filtering... : 001011010111 false true
+filtering... : 001010001011 false true
+filtering... : 001100111000 true true
+filtering... : 001111111010 true true
+filtering... : 001111011100 true true
+filtering... : 001101001011 true true
+filtering... : 001101010100 true true
+filtering... : 001100001000 true true
+filtering... : 001001100100 false true
+filtering... : 001100100100 true true
+filtering... : 001110111001 true true
+filtering... : 001101110111 true true
+filtering... : 001000111101 false true
+filtering... : 001110111010 true true
+filtering... : 001011011100 false true
+filtering... : 001001110111 false true
+filtering... : 001001001011 false true
+filtering... : 001111001100 true true
+filtering... : 001111111001 true true
+filtering... : 001001001001 false true
+filtering... : 001111000011 true true
+filtering... : 001100101101 true true
+filtering... : 001001110001 false true
+filtering... : 001000001100 false true
+filtering... : 001000011011 false true
+filtering... : 001010110011 false true
+filtering... : 001001011001 false true
+filtering... : 001100111101 true true
+filtering... : 001001011101 false true
+filtering... : 001101100010 true true
+filtering... : 001000001001 false true
+filtering... : 001100011001 true true
+filtering... : 001111100100 true true
+filtering... : 001011010011 false true
+filtering... : 001000110011 false true
+filtering... : 001110101011 true true
+filtering... : 001101110010 true true
+filtering... : 001001011111 false true
+filtering... : 001010100001 false true
+filtering... : 001000010110 false true
+filtering... : 001111101101 true true
+filtering... : 001001110000 false true
+filtering... : 001001000011 false true
+filtering... : 001110101000 true true
+filtering... : 001011100000 false true
+filtering... : 001000001111 false true
+filtering... : 001011001001 false true
+filtering... : 001111011101 true true
+filtering... : 001100011000 true true
+filtering... : 001011111001 false true
+filtering... : 001100011101 true true
+filtering... : 001110000001 true true
+filtering... : 001111101011 true true
+filtering... : 001101010110 true true
+filtering... : 001100111001 true true
+filtering... : 001011101111 false true
+filtering... : 001011110101 false true
+filtering... : 001100001111 true true
+filtering... : 001100000110 true true
+filtering... : 001001011000 false true
+filtering... : 001001001000 false true
+filtering... : 001101000111 true true
+filtering... : 001011101001 false true
+filtering... : 001101011011 true true
+filtering... : 001110111011 true true
+filtering... : 001011001100 false true
+filtering... : 001001101100 false true
+filtering... : 001100010011 true true
+filtering... : 001000001011 false true
+filtering... : 001010010110 false true
+filtering... : 001010111100 false true
+filtering... : 001001111110 false true
+filtering... : 001111001101 true true
+filtering... : 001001001110 false true
+filtering... : 001011010101 false true
+filtering... : 001000100100 false true
+filtering... : 001110111111 true true
+filtering... : 001001001111 false true
+filtering... : 001100110000 true true
+filtering... : 001111101000 true true
+filtering... : 001010000000 false true
+filtering... : 001010000010 false true
+filtering... : 001010100011 false true
+filtering... : 001111011001 true true
+filtering... : 001000011101 false true
+filtering... : 001011001010 false true
+filtering... : 001111100110 true true
+filtering... : 001101100110 true true
+filtering... : 001011000001 false true
+filtering... : 001101101010 true true
+filtering... : 001101000011 true true
+filtering... : 001000100010 false true
+filtering... : 001011111010 false true
+filtering... : 001111010111 true true
+filtering... : 001100110010 true true
+filtering... : 001010101010 false true
+filtering... : 001110110000 true true
+filtering... : 001011001011 false true
+filtering... : 001011011010 false true
+filtering... : 001010010010 false true
+filtering... : 001000100111 false true
+filtering... : 001111110101 true true
+filtering... : 001001000010 false true
+filtering... : 001100101110 true true
+filtering... : 001100000010 true true
+filtering... : 001111001011 true true
+filtering... : 001111100010 true true
+filtering... : 001111010001 true true
+filtering... : 001111111111 true true
+filtering... : 001001011011 false true
+filtering... : 001010000110 false true
+filtering... : 001100000000 true true
+filtering... : 001000111110 false true
+filtering... : 001010101111 false true
+filtering... : 001010111000 false true
+filtering... : 001111010010 true true
+filtering... : 001110001101 true true
+001110010110
+001101111000
+001110011111
+001100101100
+001100011111
+001110000011
+001110001011
+001101011101
+001111001000
+001101111101
+001110101001
+001101001110
+001100100110
+001100110110
+001101011001
+001111100111
+001100111000
+001111111010
+001111011100
+001101001011
+001101010100
+001100001000
+001100100100
+001110111001
+001101110111
+001110111010
+001111001100
+001111111001
+001111000011
+001100101101
+001100111101
+001101100010
+001100011001
+001111100100
+001110101011
+001101110010
+001111101101
+001110101000
+001111011101
+001100011000
+001100011101
+001110000001
+001111101011
+001101010110
+001100111001
+001100001111
+001100000110
+001101000111
+001101011011
+001110111011
+001100010011
+001111001101
+001110111111
+001100110000
+001111101000
+001111011001
+001111100110
+001101100110
+001101101010
+001101000011
+001111010111
+001100110010
+001110110000
+001111110101
+001100101110
+001100000010
+001111001011
+001111100010
+001111010001
+001111111111
+001100000000
+001111010010
+001110001101
+-----
+round we go
+position : 7
+gamma_map : [false, false, true, true, false, true, true, true, true, false, true, true]
+gamma bit : false
+filtering... : 001110010110 true false
+filtering... : 001101111000 false false
+filtering... : 001110011111 true false
+filtering... : 001100101100 false false
+filtering... : 001100011111 false false
+filtering... : 001110000011 true false
+filtering... : 001110001011 true false
+filtering... : 001101011101 false false
+filtering... : 001111001000 true false
+filtering... : 001101111101 false false
+filtering... : 001110101001 true false
+filtering... : 001101001110 false false
+filtering... : 001100100110 false false
+filtering... : 001100110110 false false
+filtering... : 001101011001 false false
+filtering... : 001111100111 true false
+filtering... : 001100111000 false false
+filtering... : 001111111010 true false
+filtering... : 001111011100 true false
+filtering... : 001101001011 false false
+filtering... : 001101010100 false false
+filtering... : 001100001000 false false
+filtering... : 001100100100 false false
+filtering... : 001110111001 true false
+filtering... : 001101110111 false false
+filtering... : 001110111010 true false
+filtering... : 001111001100 true false
+filtering... : 001111111001 true false
+filtering... : 001111000011 true false
+filtering... : 001100101101 false false
+filtering... : 001100111101 false false
+filtering... : 001101100010 false false
+filtering... : 001100011001 false false
+filtering... : 001111100100 true false
+filtering... : 001110101011 true false
+filtering... : 001101110010 false false
+filtering... : 001111101101 true false
+filtering... : 001110101000 true false
+filtering... : 001111011101 true false
+filtering... : 001100011000 false false
+filtering... : 001100011101 false false
+filtering... : 001110000001 true false
+filtering... : 001111101011 true false
+filtering... : 001101010110 false false
+filtering... : 001100111001 false false
+filtering... : 001100001111 false false
+filtering... : 001100000110 false false
+filtering... : 001101000111 false false
+filtering... : 001101011011 false false
+filtering... : 001110111011 true false
+filtering... : 001100010011 false false
+filtering... : 001111001101 true false
+filtering... : 001110111111 true false
+filtering... : 001100110000 false false
+filtering... : 001111101000 true false
+filtering... : 001111011001 true false
+filtering... : 001111100110 true false
+filtering... : 001101100110 false false
+filtering... : 001101101010 false false
+filtering... : 001101000011 false false
+filtering... : 001111010111 true false
+filtering... : 001100110010 false false
+filtering... : 001110110000 true false
+filtering... : 001111110101 true false
+filtering... : 001100101110 false false
+filtering... : 001100000010 false false
+filtering... : 001111001011 true false
+filtering... : 001111100010 true false
+filtering... : 001111010001 true false
+filtering... : 001111111111 true false
+filtering... : 001100000000 false false
+filtering... : 001111010010 true false
+filtering... : 001110001101 true false
+001101111000
+001100101100
+001100011111
+001101011101
+001101111101
+001101001110
+001100100110
+001100110110
+001101011001
+001100111000
+001101001011
+001101010100
+001100001000
+001100100100
+001101110111
+001100101101
+001100111101
+001101100010
+001100011001
+001101110010
+001100011000
+001100011101
+001101010110
+001100111001
+001100001111
+001100000110
+001101000111
+001101011011
+001100010011
+001100110000
+001101100110
+001101101010
+001101000011
+001100110010
+001100101110
+001100000010
+001100000000
+-----
+round we go
+position : 6
+gamma_map : [false, false, true, true, false, false, false, true, true, true, true, false]
+gamma bit : false
+filtering... : 001101111000 true false
+filtering... : 001100101100 false false
+filtering... : 001100011111 false false
+filtering... : 001101011101 true false
+filtering... : 001101111101 true false
+filtering... : 001101001110 true false
+filtering... : 001100100110 false false
+filtering... : 001100110110 false false
+filtering... : 001101011001 true false
+filtering... : 001100111000 false false
+filtering... : 001101001011 true false
+filtering... : 001101010100 true false
+filtering... : 001100001000 false false
+filtering... : 001100100100 false false
+filtering... : 001101110111 true false
+filtering... : 001100101101 false false
+filtering... : 001100111101 false false
+filtering... : 001101100010 true false
+filtering... : 001100011001 false false
+filtering... : 001101110010 true false
+filtering... : 001100011000 false false
+filtering... : 001100011101 false false
+filtering... : 001101010110 true false
+filtering... : 001100111001 false false
+filtering... : 001100001111 false false
+filtering... : 001100000110 false false
+filtering... : 001101000111 true false
+filtering... : 001101011011 true false
+filtering... : 001100010011 false false
+filtering... : 001100110000 false false
+filtering... : 001101100110 true false
+filtering... : 001101101010 true false
+filtering... : 001101000011 true false
+filtering... : 001100110010 false false
+filtering... : 001100101110 false false
+filtering... : 001100000010 false false
+filtering... : 001100000000 false false
+001100101100
+001100011111
+001100100110
+001100110110
+001100111000
+001100001000
+001100100100
+001100101101
+001100111101
+001100011001
+001100011000
+001100011101
+001100111001
+001100001111
+001100000110
+001100010011
+001100110000
+001100110010
+001100101110
+001100000010
+001100000000
+-----
+round we go
+position : 5
+gamma_map : [false, false, true, true, false, false, true, true, true, true, false, false]
+gamma bit : true
+filtering... : 001100101100 true true
+filtering... : 001100011111 false true
+filtering... : 001100100110 true true
+filtering... : 001100110110 true true
+filtering... : 001100111000 true true
+filtering... : 001100001000 false true
+filtering... : 001100100100 true true
+filtering... : 001100101101 true true
+filtering... : 001100111101 true true
+filtering... : 001100011001 false true
+filtering... : 001100011000 false true
+filtering... : 001100011101 false true
+filtering... : 001100111001 true true
+filtering... : 001100001111 false true
+filtering... : 001100000110 false true
+filtering... : 001100010011 false true
+filtering... : 001100110000 true true
+filtering... : 001100110010 true true
+filtering... : 001100101110 true true
+filtering... : 001100000010 false true
+filtering... : 001100000000 false true
+001100101100
+001100100110
+001100110110
+001100111000
+001100100100
+001100101101
+001100111101
+001100111001
+001100110000
+001100110010
+001100101110
+-----
+round we go
+position : 4
+gamma_map : [false, false, true, true, false, false, true, true, true, true, false, false]
+gamma bit : true
+filtering... : 001100101100 false true
+filtering... : 001100100110 false true
+filtering... : 001100110110 true true
+filtering... : 001100111000 true true
+filtering... : 001100100100 false true
+filtering... : 001100101101 false true
+filtering... : 001100111101 true true
+filtering... : 001100111001 true true
+filtering... : 001100110000 true true
+filtering... : 001100110010 true true
+filtering... : 001100101110 false true
+001100110110
+001100111000
+001100111101
+001100111001
+001100110000
+001100110010
+-----
+round we go
+position : 3
+gamma_map : [false, false, true, true, false, false, true, true, true, false, false, false]
+gamma bit : true
+filtering... : 001100110110 false true
+filtering... : 001100111000 true true
+filtering... : 001100111101 true true
+filtering... : 001100111001 true true
+filtering... : 001100110000 false true
+filtering... : 001100110010 false true
+001100111000
+001100111101
+001100111001
+-----
+round we go
+position : 2
+gamma_map : [false, false, true, true, false, false, true, true, true, false, false, true]
+gamma bit : false
+filtering... : 001100111000 false false
+filtering... : 001100111101 true false
+filtering... : 001100111001 false false
+001100111000
+001100111001
+-----
+round we go
+position : 1
+gamma_map : [false, false, true, true, false, false, true, true, true, false, false, true]
+gamma bit : false
+filtering... : 001100111000 false false
+filtering... : 001100111001 false false
+001100111000
+001100111001
+-----
+round we go
+position : 0
+gamma_map : [false, false, true, true, false, false, true, true, true, false, false, true]
+gamma bit : true
+filtering... : 001100111000 false true
+filtering... : 001100111001 true true
+001100111001
+-----
+position : 11
+gamma_map : [true, true, false, false, true, true, true, true, false, true, false, false]
+gamma bit : true
+filtering... : 110001010111 true true
+filtering... : 011011110010 false true
+filtering... : 110011110011 true true
+filtering... : 101000010111 true true
+filtering... : 011101100100 false true
+filtering... : 111001011100 true true
+filtering... : 011100000101 false true
+filtering... : 011110110011 false true
+filtering... : 001001111111 false true
+filtering... : 111000010000 true true
+filtering... : 001000101100 false true
+filtering... : 011100111010 false true
+filtering... : 011100111000 false true
+filtering... : 011100010001 false true
+filtering... : 100001100000 true true
+filtering... : 111010111110 true true
+filtering... : 100011000101 true true
+filtering... : 010111000101 false true
+filtering... : 100110110011 true true
+filtering... : 101010110011 true true
+filtering... : 110101110010 true true
+filtering... : 110111100010 true true
+filtering... : 000001100100 false true
+filtering... : 010010011010 false true
+filtering... : 001001001100 false true
+filtering... : 101000000111 true true
+filtering... : 100100110011 true true
+filtering... : 111111100011 true true
+filtering... : 110010001010 true true
+filtering... : 100010110011 true true
+filtering... : 111101101001 true true
+filtering... : 101001001101 true true
+filtering... : 110111011101 true true
+filtering... : 100100101101 true true
+filtering... : 111111000011 true true
+filtering... : 001110010110 false true
+filtering... : 010110110010 false true
+filtering... : 010011100000 false true
+filtering... : 110011100011 true true
+filtering... : 111101001011 true true
+filtering... : 100001101000 true true
+filtering... : 100101100011 true true
+filtering... : 010101100110 false true
+filtering... : 101000001001 true true
+filtering... : 010001011100 false true
+filtering... : 111001010010 true true
+filtering... : 000110000110 false true
+filtering... : 110110111111 true true
+filtering... : 111111010000 true true
+filtering... : 110111110011 true true
+filtering... : 110110010010 true true
+filtering... : 000001001111 false true
+filtering... : 010001000111 false true
+filtering... : 101101100110 true true
+filtering... : 110011100100 true true
+filtering... : 101000010100 true true
+filtering... : 010100010000 false true
+filtering... : 100011001001 true true
+filtering... : 011000111101 false true
+filtering... : 000101011101 false true
+filtering... : 000110111110 false true
+filtering... : 011000101100 false true
+filtering... : 110101101001 true true
+filtering... : 100011110011 true true
+filtering... : 110101010001 true true
+filtering... : 100010100000 true true
+filtering... : 110010010001 true true
+filtering... : 000101101011 false true
+filtering... : 101100111011 true true
+filtering... : 111110110001 true true
+filtering... : 011001000100 false true
+filtering... : 001101111000 false true
+filtering... : 100100100101 true true
+filtering... : 101111001000 true true
+filtering... : 011010110110 false true
+filtering... : 001110011111 false true
+filtering... : 101011001001 true true
+filtering... : 110000100010 true true
+filtering... : 011110100110 false true
+filtering... : 001100101100 false true
+filtering... : 000110000001 false true
+filtering... : 011111001111 false true
+filtering... : 011000110010 false true
+filtering... : 001100011111 false true
+filtering... : 111100010100 true true
+filtering... : 010011111000 false true
+filtering... : 000100101010 false true
+filtering... : 101111100101 true true
+filtering... : 010000001100 false true
+filtering... : 100100101111 true true
+filtering... : 100011101100 true true
+filtering... : 000001111000 false true
+filtering... : 001110000011 false true
+filtering... : 011101011001 false true
+filtering... : 000001111101 false true
+filtering... : 000011001011 false true
+filtering... : 111111000110 true true
+filtering... : 000001011100 false true
+filtering... : 011001100000 false true
+filtering... : 111001011101 true true
+filtering... : 011010000011 false true
+filtering... : 101010101110 true true
+filtering... : 010110010101 false true
+filtering... : 000011101101 false true
+filtering... : 010010011000 false true
+filtering... : 000010100111 false true
+filtering... : 001000000111 false true
+filtering... : 111111011100 true true
+filtering... : 101010010000 true true
+filtering... : 101001001100 true true
+filtering... : 000000100111 false true
+filtering... : 101010101100 true true
+filtering... : 010110100111 false true
+filtering... : 001010001101 false true
+filtering... : 111000000101 true true
+filtering... : 111001101100 true true
+filtering... : 011110010001 false true
+filtering... : 011001111010 false true
+filtering... : 010010011011 false true
+filtering... : 011110111000 false true
+filtering... : 010111110000 false true
+filtering... : 001110001011 false true
+filtering... : 010001001011 false true
+filtering... : 011001001010 false true
+filtering... : 011001001101 false true
+filtering... : 001101011101 false true
+filtering... : 100110100000 true true
+filtering... : 100001111110 true true
+filtering... : 101110100011 true true
+filtering... : 100010111111 true true
+filtering... : 001010010011 false true
+filtering... : 000010011001 false true
+filtering... : 011001111101 false true
+filtering... : 000100000010 false true
+filtering... : 100110010011 true true
+filtering... : 001111001000 false true
+filtering... : 110001011101 true true
+filtering... : 000100011000 false true
+filtering... : 111110000000 true true
+filtering... : 111001101000 true true
+filtering... : 100111000100 true true
+filtering... : 010000010100 false true
+filtering... : 011000110111 false true
+filtering... : 000110001101 false true
+filtering... : 101100110010 true true
+filtering... : 011111101001 false true
+filtering... : 000000100010 false true
+filtering... : 000001101000 false true
+filtering... : 111001111101 true true
+filtering... : 111100010111 true true
+filtering... : 110000010101 true true
+filtering... : 110000101100 true true
+filtering... : 101111010011 true true
+filtering... : 000100010101 false true
+filtering... : 100111100011 true true
+filtering... : 110100101111 true true
+filtering... : 101000001000 true true
+filtering... : 001000100000 false true
+filtering... : 100111111010 true true
+filtering... : 001101111101 false true
+filtering... : 000000101000 false true
+filtering... : 100111101100 true true
+filtering... : 100111010100 true true
+filtering... : 111100010110 true true
+filtering... : 100001010011 true true
+filtering... : 010010001000 false true
+filtering... : 111101010101 true true
+filtering... : 101110101010 true true
+filtering... : 111110001110 true true
+filtering... : 001010111010 false true
+filtering... : 100110001000 true true
+filtering... : 101111001111 true true
+filtering... : 110010011101 true true
+filtering... : 110001110101 true true
+filtering... : 011101000000 false true
+filtering... : 010011110110 false true
+filtering... : 001110101001 false true
+filtering... : 011110011010 false true
+filtering... : 110010111100 true true
+filtering... : 010000100001 false true
+filtering... : 010010000100 false true
+filtering... : 111111000101 true true
+filtering... : 010111100111 false true
+filtering... : 101010110010 true true
+filtering... : 100010010011 true true
+filtering... : 101011010000 true true
+filtering... : 000101100000 false true
+filtering... : 011001000011 false true
+filtering... : 010110000000 false true
+filtering... : 101011101111 true true
+filtering... : 001101001110 false true
+filtering... : 001100100110 false true
+filtering... : 011111110011 false true
+filtering... : 010000101101 false true
+filtering... : 000111101101 false true
+filtering... : 111100101101 true true
+filtering... : 000011001101 false true
+filtering... : 110011111100 true true
+filtering... : 011000110000 false true
+filtering... : 000001010010 false true
+filtering... : 111100111111 true true
+filtering... : 001010000100 false true
+filtering... : 000011010010 false true
+filtering... : 010001000001 false true
+filtering... : 111010111000 true true
+filtering... : 110001010011 true true
+filtering... : 000000101011 false true
+filtering... : 011110011011 false true
+filtering... : 100110111000 true true
+filtering... : 010010110010 false true
+filtering... : 000010111110 false true
+filtering... : 110010001001 true true
+filtering... : 000111001001 false true
+filtering... : 001000011100 false true
+filtering... : 111111011010 true true
+filtering... : 000000110101 false true
+filtering... : 111011111011 true true
+filtering... : 100001110111 true true
+filtering... : 010001110000 false true
+filtering... : 010101100100 false true
+filtering... : 011010100001 false true
+filtering... : 111000101101 true true
+filtering... : 001100110110 false true
+filtering... : 010001111110 false true
+filtering... : 100000101011 true true
+filtering... : 011111111001 false true
+filtering... : 111000001100 true true
+filtering... : 011111100011 false true
+filtering... : 110110110000 true true
+filtering... : 011000101010 false true
+filtering... : 101000000011 true true
+filtering... : 101111110100 true true
+filtering... : 011000101101 false true
+filtering... : 001000011010 false true
+filtering... : 101001100111 true true
+filtering... : 101100001101 true true
+filtering... : 100100101100 true true
+filtering... : 001101011001 false true
+filtering... : 001111100111 false true
+filtering... : 011100101001 false true
+filtering... : 110010000000 true true
+filtering... : 010100111000 false true
+filtering... : 000011010111 false true
+filtering... : 000000100110 false true
+filtering... : 101001000000 true true
+filtering... : 000110100100 false true
+filtering... : 110001110011 true true
+filtering... : 001011001101 false true
+filtering... : 100000111100 true true
+filtering... : 101011011111 true true
+filtering... : 000010110110 false true
+filtering... : 010101110100 false true
+filtering... : 111100111001 true true
+filtering... : 111010101101 true true
+filtering... : 101100001001 true true
+filtering... : 011111000111 false true
+filtering... : 010001101000 false true
+filtering... : 100000001111 true true
+filtering... : 011111101100 false true
+filtering... : 011111100111 false true
+filtering... : 111101111110 true true
+filtering... : 110110100101 true true
+filtering... : 011110001011 false true
+filtering... : 100111100001 true true
+filtering... : 000001101101 false true
+filtering... : 100110101110 true true
+filtering... : 100000010011 true true
+filtering... : 110000000001 true true
+filtering... : 001001101001 false true
+filtering... : 000001111111 false true
+filtering... : 111001001010 true true
+filtering... : 101011100101 true true
+filtering... : 100100000000 true true
+filtering... : 110001101011 true true
+filtering... : 011111001011 false true
+filtering... : 010010001011 false true
+filtering... : 000101010011 false true
+filtering... : 110010110100 true true
+filtering... : 101010101011 true true
+filtering... : 100100001100 true true
+filtering... : 000001100011 false true
+filtering... : 101010000010 true true
+filtering... : 111101100100 true true
+filtering... : 001011010111 false true
+filtering... : 000001010001 false true
+filtering... : 001010001011 false true
+filtering... : 100110000011 true true
+filtering... : 000010101010 false true
+filtering... : 110111011100 true true
+filtering... : 001100111000 false true
+filtering... : 111011010111 true true
+filtering... : 100100110000 true true
+filtering... : 000010111010 false true
+filtering... : 000011010001 false true
+filtering... : 100001111111 true true
+filtering... : 111111000100 true true
+filtering... : 010111111000 false true
+filtering... : 100101010010 true true
+filtering... : 001111111010 false true
+filtering... : 001111011100 false true
+filtering... : 111101100111 true true
+filtering... : 111011011011 true true
+filtering... : 111000100110 true true
+filtering... : 011101001011 false true
+filtering... : 010100101010 false true
+filtering... : 010100001111 false true
+filtering... : 010000001111 false true
+filtering... : 000000000010 false true
+filtering... : 010011010111 false true
+filtering... : 001101001011 false true
+filtering... : 101011001011 true true
+filtering... : 011001101101 false true
+filtering... : 100000000111 true true
+filtering... : 100110011010 true true
+filtering... : 000101000110 false true
+filtering... : 101100010011 true true
+filtering... : 101011011100 true true
+filtering... : 001101010100 false true
+filtering... : 110101110111 true true
+filtering... : 001100001000 false true
+filtering... : 001001100100 false true
+filtering... : 111101011010 true true
+filtering... : 001100100100 false true
+filtering... : 100000100010 true true
+filtering... : 001110111001 false true
+filtering... : 101101001110 true true
+filtering... : 001101110111 false true
+filtering... : 010101100101 false true
+filtering... : 000011111110 false true
+filtering... : 001000111101 false true
+filtering... : 110011101011 true true
+filtering... : 110101011000 true true
+filtering... : 000000100101 false true
+filtering... : 100110100001 true true
+filtering... : 111111101101 true true
+filtering... : 010100101111 false true
+filtering... : 110101011010 true true
+filtering... : 011010011100 false true
+filtering... : 101101010001 true true
+filtering... : 101001010011 true true
+filtering... : 011111001100 false true
+filtering... : 101001010111 true true
+filtering... : 011100100011 false true
+filtering... : 101011110000 true true
+filtering... : 010111001010 false true
+filtering... : 111011000111 true true
+filtering... : 100111001101 true true
+filtering... : 001110111010 false true
+filtering... : 100001111000 true true
+filtering... : 111011010011 true true
+filtering... : 110000101010 true true
+filtering... : 011010000000 false true
+filtering... : 110001111010 true true
+filtering... : 100101000100 true true
+filtering... : 010000110100 false true
+filtering... : 101000101010 true true
+filtering... : 011010101110 false true
+filtering... : 010000111100 false true
+filtering... : 101011100100 true true
+filtering... : 101101111010 true true
+filtering... : 111011111110 true true
+filtering... : 000101010111 false true
+filtering... : 000010111000 false true
+filtering... : 011101101010 false true
+filtering... : 101110100110 true true
+filtering... : 010000011010 false true
+filtering... : 101100100000 true true
+filtering... : 010011010101 false true
+filtering... : 101100011100 true true
+filtering... : 011010101010 false true
+filtering... : 010111101010 false true
+filtering... : 111011100111 true true
+filtering... : 111111110010 true true
+filtering... : 101101100100 true true
+filtering... : 111001010100 true true
+filtering... : 011000001110 false true
+filtering... : 110110001110 true true
+filtering... : 111110100110 true true
+filtering... : 001011011100 false true
+filtering... : 101000010010 true true
+filtering... : 100000101010 true true
+filtering... : 010000011110 false true
+filtering... : 001001110111 false true
+filtering... : 001001001011 false true
+filtering... : 110010011110 true true
+filtering... : 001111001100 false true
+filtering... : 110110100010 true true
+filtering... : 111100000111 true true
+filtering... : 010101101011 false true
+filtering... : 001111111001 false true
+filtering... : 101011000000 true true
+filtering... : 011100011000 false true
+filtering... : 000001000000 false true
+filtering... : 100101001100 true true
+filtering... : 110010011001 true true
+filtering... : 111100111110 true true
+filtering... : 010000110110 false true
+filtering... : 110000111000 true true
+filtering... : 110111100001 true true
+filtering... : 000100100010 false true
+filtering... : 100010001110 true true
+filtering... : 010000111101 false true
+filtering... : 111100011000 true true
+filtering... : 110000000101 true true
+filtering... : 000000000001 false true
+filtering... : 010011111100 false true
+filtering... : 011011111101 false true
+filtering... : 111001111010 true true
+filtering... : 001001001001 false true
+filtering... : 010101011010 false true
+filtering... : 011010011111 false true
+filtering... : 001111000011 false true
+filtering... : 101111111111 true true
+filtering... : 000111101000 false true
+filtering... : 011000111110 false true
+filtering... : 001100101101 false true
+filtering... : 101000000110 true true
+filtering... : 000100001010 false true
+filtering... : 111110010101 true true
+filtering... : 000011101000 false true
+filtering... : 011010101000 false true
+filtering... : 100111100000 true true
+filtering... : 111001111111 true true
+filtering... : 010101000111 false true
+filtering... : 011000100101 false true
+filtering... : 001001110001 false true
+filtering... : 101101011011 true true
+filtering... : 001000001100 false true
+filtering... : 111110111010 true true
+filtering... : 011110111010 false true
+filtering... : 111101100001 true true
+filtering... : 011111101000 false true
+filtering... : 110100010100 true true
+filtering... : 010001110011 false true
+filtering... : 000011010011 false true
+filtering... : 010000110010 false true
+filtering... : 000011111011 false true
+filtering... : 101111011000 true true
+filtering... : 010101111110 false true
+filtering... : 100100101011 true true
+filtering... : 001000011011 false true
+filtering... : 011000100000 false true
+filtering... : 100100111101 true true
+filtering... : 001010110011 false true
+filtering... : 000000000000 false true
+filtering... : 000110111011 false true
+filtering... : 001001011001 false true
+filtering... : 011101010010 false true
+filtering... : 000111000011 false true
+filtering... : 010001000100 false true
+filtering... : 011110011111 false true
+filtering... : 010010111011 false true
+filtering... : 100000000011 true true
+filtering... : 001100111101 false true
+filtering... : 000001000110 false true
+filtering... : 000010000010 false true
+filtering... : 101111001010 true true
+filtering... : 000111000001 false true
+filtering... : 100101011100 true true
+filtering... : 111001110100 true true
+filtering... : 100111001111 true true
+filtering... : 011110111111 false true
+filtering... : 010101011110 false true
+filtering... : 101010011011 true true
+filtering... : 101000010101 true true
+filtering... : 101001101000 true true
+filtering... : 001001011101 false true
+filtering... : 010110101100 false true
+filtering... : 101110111100 true true
+filtering... : 000111011110 false true
+filtering... : 010111001101 false true
+filtering... : 001101100010 false true
+filtering... : 011101001111 false true
+filtering... : 100111111111 true true
+filtering... : 000110101110 false true
+filtering... : 011110001110 false true
+filtering... : 110011100111 true true
+filtering... : 010011100101 false true
+filtering... : 100101000011 true true
+filtering... : 100101010011 true true
+filtering... : 111000110110 true true
+filtering... : 110111011111 true true
+filtering... : 000100011110 false true
+filtering... : 100000000001 true true
+filtering... : 010111111111 false true
+filtering... : 100000100011 true true
+filtering... : 110010011111 true true
+filtering... : 111101110110 true true
+filtering... : 001000001001 false true
+filtering... : 001100011001 false true
+filtering... : 111100110001 true true
+filtering... : 100110100101 true true
+filtering... : 010111101000 false true
+filtering... : 000000000110 false true
+filtering... : 000011011001 false true
+filtering... : 100100001111 true true
+filtering... : 001111100100 false true
+filtering... : 001011010011 false true
+filtering... : 001000110011 false true
+filtering... : 110100010010 true true
+filtering... : 011100110111 false true
+filtering... : 011010110010 false true
+filtering... : 011001110110 false true
+filtering... : 011011100010 false true
+filtering... : 001110101011 false true
+filtering... : 101101100111 true true
+filtering... : 101101111100 true true
+filtering... : 000110000101 false true
+filtering... : 000001110010 false true
+filtering... : 001101110010 false true
+filtering... : 101011000100 true true
+filtering... : 000110000000 false true
+filtering... : 001001011111 false true
+filtering... : 100101101011 true true
+filtering... : 001010100001 false true
+filtering... : 110000111110 true true
+filtering... : 011111101111 false true
+filtering... : 110110111100 true true
+filtering... : 001000010110 false true
+filtering... : 000101111110 false true
+filtering... : 111001000001 true true
+filtering... : 000100110011 false true
+filtering... : 110110000101 true true
+filtering... : 101100101011 true true
+filtering... : 101110000010 true true
+filtering... : 011101100001 false true
+filtering... : 010011000001 false true
+filtering... : 010111000011 false true
+filtering... : 010111011101 false true
+filtering... : 101010100001 true true
+filtering... : 000111011011 false true
+filtering... : 101110010000 true true
+filtering... : 110000000010 true true
+filtering... : 101100011101 true true
+filtering... : 011000011000 false true
+filtering... : 001111101101 false true
+filtering... : 101000001010 true true
+filtering... : 101011010001 true true
+filtering... : 011111100001 false true
+filtering... : 101001011110 true true
+filtering... : 100101011000 true true
+filtering... : 011110001100 false true
+filtering... : 111100011110 true true
+filtering... : 010011101110 false true
+filtering... : 001001110000 false true
+filtering... : 001001000011 false true
+filtering... : 100001010000 true true
+filtering... : 000110010000 false true
+filtering... : 110111010111 true true
+filtering... : 000100110101 false true
+filtering... : 001110101000 false true
+filtering... : 101011000011 true true
+filtering... : 001011100000 false true
+filtering... : 111111111111 true true
+filtering... : 111111011110 true true
+filtering... : 110001100001 true true
+filtering... : 001000001111 false true
+filtering... : 101000100100 true true
+filtering... : 001011001001 false true
+filtering... : 110110001101 true true
+filtering... : 000100000000 false true
+filtering... : 011100001101 false true
+filtering... : 110011001000 true true
+filtering... : 001111011101 false true
+filtering... : 010000111111 false true
+filtering... : 010110011110 false true
+filtering... : 011110111011 false true
+filtering... : 101111011101 true true
+filtering... : 001100011000 false true
+filtering... : 001011111001 false true
+filtering... : 000110001011 false true
+filtering... : 011011010100 false true
+filtering... : 111110001011 true true
+filtering... : 010000110111 false true
+filtering... : 001100011101 false true
+filtering... : 011110111001 false true
+filtering... : 000010101001 false true
+filtering... : 001110000001 false true
+filtering... : 011111010101 false true
+filtering... : 000010010100 false true
+filtering... : 000101011001 false true
+filtering... : 100100000001 true true
+filtering... : 001111101011 false true
+filtering... : 111110010011 true true
+filtering... : 000111111011 false true
+filtering... : 001101010110 false true
+filtering... : 001100111001 false true
+filtering... : 000100011101 false true
+filtering... : 111010010111 true true
+filtering... : 000100000001 false true
+filtering... : 001011101111 false true
+filtering... : 101001110011 true true
+filtering... : 001011110101 false true
+filtering... : 011000001101 false true
+filtering... : 110011001011 true true
+filtering... : 011110111100 false true
+filtering... : 110110101000 true true
+filtering... : 011010001101 false true
+filtering... : 110111001000 true true
+filtering... : 110010010101 true true
+filtering... : 011010001011 false true
+filtering... : 000011100111 false true
+filtering... : 011000110001 false true
+filtering... : 001100001111 false true
+filtering... : 110010011010 true true
+filtering... : 101100101100 true true
+filtering... : 001100000110 false true
+filtering... : 010101001111 false true
+filtering... : 000011000100 false true
+filtering... : 110001000111 true true
+filtering... : 001001011000 false true
+filtering... : 001001001000 false true
+filtering... : 000010111101 false true
+filtering... : 100101001010 true true
+filtering... : 011100111100 false true
+filtering... : 101000011011 true true
+filtering... : 101011010111 true true
+filtering... : 111001000011 true true
+filtering... : 100100100110 true true
+filtering... : 011001011011 false true
+filtering... : 000011110011 false true
+filtering... : 001101000111 false true
+filtering... : 011010010100 false true
+filtering... : 101010101000 true true
+filtering... : 100010110000 true true
+filtering... : 100001011110 true true
+filtering... : 100000110110 true true
+filtering... : 001011101001 false true
+filtering... : 000110100011 false true
+filtering... : 111000101010 true true
+filtering... : 111001011001 true true
+filtering... : 101111010010 true true
+filtering... : 011100101010 false true
+filtering... : 100010111000 true true
+filtering... : 010100101110 false true
+filtering... : 011001110000 false true
+filtering... : 000010001101 false true
+filtering... : 101110000111 true true
+filtering... : 011011001111 false true
+filtering... : 011110001000 false true
+filtering... : 010010100011 false true
+filtering... : 110001100010 true true
+filtering... : 001101011011 false true
+filtering... : 110100000101 true true
+filtering... : 101110100111 true true
+filtering... : 001110111011 false true
+filtering... : 000110100101 false true
+filtering... : 100100100001 true true
+filtering... : 101000111100 true true
+filtering... : 100011101110 true true
+filtering... : 110010000101 true true
+filtering... : 101100011001 true true
+filtering... : 100000010111 true true
+filtering... : 011100100101 false true
+filtering... : 000010011011 false true
+filtering... : 001011001100 false true
+filtering... : 011001000000 false true
+filtering... : 000101000101 false true
+filtering... : 100001001100 true true
+filtering... : 000001101010 false true
+filtering... : 110111101100 true true
+filtering... : 111001101010 true true
+filtering... : 110000110111 true true
+filtering... : 000110010001 false true
+filtering... : 011100000000 false true
+filtering... : 010000111010 false true
+filtering... : 000101000000 false true
+filtering... : 010000101010 false true
+filtering... : 010011110001 false true
+filtering... : 101011010101 true true
+filtering... : 100000110111 true true
+filtering... : 101001110010 true true
+filtering... : 100011011100 true true
+filtering... : 010011100011 false true
+filtering... : 100000100111 true true
+filtering... : 110100110000 true true
+filtering... : 000100001011 false true
+filtering... : 101101011000 true true
+filtering... : 010110011001 false true
+filtering... : 010110111111 false true
+filtering... : 101110010101 true true
+filtering... : 011110001101 false true
+filtering... : 110001001000 true true
+filtering... : 001001101100 false true
+filtering... : 100111010011 true true
+filtering... : 001100010011 false true
+filtering... : 110101111001 true true
+filtering... : 100010101011 true true
+filtering... : 111010001110 true true
+filtering... : 110001100111 true true
+filtering... : 111000010010 true true
+filtering... : 001000001011 false true
+filtering... : 111001000010 true true
+filtering... : 100100100100 true true
+filtering... : 110010101001 true true
+filtering... : 111101101010 true true
+filtering... : 111111100101 true true
+filtering... : 100010010001 true true
+filtering... : 001010010110 false true
+filtering... : 111101011000 true true
+filtering... : 001010111100 false true
+filtering... : 001001111110 false true
+filtering... : 100010100110 true true
+filtering... : 100001110100 true true
+filtering... : 001111001101 false true
+filtering... : 101100100111 true true
+filtering... : 101101100101 true true
+filtering... : 100101110111 true true
+filtering... : 000111110111 false true
+filtering... : 000111001000 false true
+filtering... : 010101000010 false true
+filtering... : 011000111100 false true
+filtering... : 001001001110 false true
+filtering... : 111101010001 true true
+filtering... : 001011010101 false true
+filtering... : 100011000111 true true
+filtering... : 100000001001 true true
+filtering... : 011100011110 false true
+filtering... : 010111011011 false true
+filtering... : 011000010011 false true
+filtering... : 101101011110 true true
+filtering... : 000000100011 false true
+filtering... : 111110010010 true true
+filtering... : 111010011101 true true
+filtering... : 001000100100 false true
+filtering... : 110101100001 true true
+filtering... : 100101101000 true true
+filtering... : 001110111111 false true
+filtering... : 010001000101 false true
+filtering... : 111110000101 true true
+filtering... : 101000001101 true true
+filtering... : 110101010000 true true
+filtering... : 111110101110 true true
+filtering... : 011111011000 false true
+filtering... : 001001001111 false true
+filtering... : 000101010110 false true
+filtering... : 001100110000 false true
+filtering... : 001111101000 false true
+filtering... : 101000100101 true true
+filtering... : 010000000010 false true
+filtering... : 110011000010 true true
+filtering... : 000000001100 false true
+filtering... : 010000101011 false true
+filtering... : 010101011011 false true
+filtering... : 101011010100 true true
+filtering... : 010001011011 false true
+filtering... : 111100011001 true true
+filtering... : 100000111110 true true
+filtering... : 110001101010 true true
+filtering... : 100111101001 true true
+filtering... : 100110001110 true true
+filtering... : 110001010101 true true
+filtering... : 101100001000 true true
+filtering... : 100001000010 true true
+filtering... : 000110100001 false true
+filtering... : 001010000000 false true
+filtering... : 011111100000 false true
+filtering... : 111110101111 true true
+filtering... : 000001101001 false true
+filtering... : 000000111110 false true
+filtering... : 101111101001 true true
+filtering... : 001010000010 false true
+filtering... : 011110010010 false true
+filtering... : 101111000111 true true
+filtering... : 111110101010 true true
+filtering... : 000100001000 false true
+filtering... : 000111000000 false true
+filtering... : 110010010110 true true
+filtering... : 000001111110 false true
+filtering... : 010110101010 false true
+filtering... : 001010100011 false true
+filtering... : 001111011001 false true
+filtering... : 111001001111 true true
+filtering... : 100100010111 true true
+filtering... : 101100001011 true true
+filtering... : 100111000110 true true
+filtering... : 111010111101 true true
+filtering... : 010001011110 false true
+filtering... : 101110000011 true true
+filtering... : 010111000010 false true
+filtering... : 110110001011 true true
+filtering... : 111010100011 true true
+filtering... : 111100011101 true true
+filtering... : 101101101001 true true
+filtering... : 110100001000 true true
+filtering... : 110001011001 true true
+filtering... : 110010100001 true true
+filtering... : 111110010110 true true
+filtering... : 010100100011 false true
+filtering... : 001000011101 false true
+filtering... : 001011001010 false true
+filtering... : 011100111011 false true
+filtering... : 001111100110 false true
+filtering... : 001101100110 false true
+filtering... : 001011000001 false true
+filtering... : 010100100110 false true
+filtering... : 100100100111 true true
+filtering... : 010100011011 false true
+filtering... : 000101110001 false true
+filtering... : 010110011111 false true
+filtering... : 000001011101 false true
+filtering... : 110101011001 true true
+filtering... : 001101101010 false true
+filtering... : 011111111010 false true
+filtering... : 111001100011 true true
+filtering... : 100001000111 true true
+filtering... : 110110011111 true true
+filtering... : 100101010001 true true
+filtering... : 011100100010 false true
+filtering... : 100100011000 true true
+filtering... : 101111001011 true true
+filtering... : 111001011000 true true
+filtering... : 110000101110 true true
+filtering... : 010100100101 false true
+filtering... : 110011101000 true true
+filtering... : 001101000011 false true
+filtering... : 111101100101 true true
+filtering... : 011010011011 false true
+filtering... : 100110001101 true true
+filtering... : 111001111100 true true
+filtering... : 001000100010 false true
+filtering... : 000101111101 false true
+filtering... : 101110011000 true true
+filtering... : 001011111010 false true
+filtering... : 111100101001 true true
+filtering... : 011000101001 false true
+filtering... : 001111010111 false true
+filtering... : 001100110010 false true
+filtering... : 011000011011 false true
+filtering... : 110111011000 true true
+filtering... : 100100000110 true true
+filtering... : 011010110000 false true
+filtering... : 110111101111 true true
+filtering... : 111000111101 true true
+filtering... : 111111100110 true true
+filtering... : 000101010010 false true
+filtering... : 010101001010 false true
+filtering... : 110100110101 true true
+filtering... : 011011100101 false true
+filtering... : 110110111011 true true
+filtering... : 100010111110 true true
+filtering... : 100110111010 true true
+filtering... : 100011001010 true true
+filtering... : 100100100000 true true
+filtering... : 101000110110 true true
+filtering... : 001010101010 false true
+filtering... : 011001101111 false true
+filtering... : 001110110000 false true
+filtering... : 010001100100 false true
+filtering... : 011000100100 false true
+filtering... : 001011001011 false true
+filtering... : 110111100110 true true
+filtering... : 010110010111 false true
+filtering... : 001011011010 false true
+filtering... : 111100001010 true true
+filtering... : 000010001100 false true
+filtering... : 011010001111 false true
+filtering... : 100100001101 true true
+filtering... : 100010011100 true true
+filtering... : 000010001000 false true
+filtering... : 101001010000 true true
+filtering... : 110101001101 true true
+filtering... : 010110111100 false true
+filtering... : 101001100100 true true
+filtering... : 100000111010 true true
+filtering... : 010000010001 false true
+filtering... : 011101011101 false true
+filtering... : 100011110010 true true
+filtering... : 100100011111 true true
+filtering... : 100011100101 true true
+filtering... : 001010010010 false true
+filtering... : 000110011111 false true
+filtering... : 010000000111 false true
+filtering... : 111001101101 true true
+filtering... : 010011000010 false true
+filtering... : 000001111010 false true
+filtering... : 010010001111 false true
+filtering... : 101011100001 true true
+filtering... : 101100111100 true true
+filtering... : 100001000000 true true
+filtering... : 110111110010 true true
+filtering... : 100110000111 true true
+filtering... : 100000111011 true true
+filtering... : 111010011110 true true
+filtering... : 011011011011 false true
+filtering... : 101011000110 true true
+filtering... : 011100011001 false true
+filtering... : 000101011100 false true
+filtering... : 010000101111 false true
+filtering... : 100010100001 true true
+filtering... : 111000100101 true true
+filtering... : 011010010001 false true
+filtering... : 110110100011 true true
+filtering... : 100000011100 true true
+filtering... : 101110101101 true true
+filtering... : 000010110100 false true
+filtering... : 101011111110 true true
+filtering... : 001000100111 false true
+filtering... : 101001001010 true true
+filtering... : 001111110101 false true
+filtering... : 001001000010 false true
+filtering... : 001100101110 false true
+filtering... : 111000001000 true true
+filtering... : 000000100000 false true
+filtering... : 000100111110 false true
+filtering... : 111111110100 true true
+filtering... : 110101001100 true true
+filtering... : 001100000010 false true
+filtering... : 100011011001 true true
+filtering... : 000110000010 false true
+filtering... : 100010101101 true true
+filtering... : 111110101011 true true
+filtering... : 110100000000 true true
+filtering... : 000100111001 false true
+filtering... : 001111001011 false true
+filtering... : 110111011011 true true
+filtering... : 001111100010 false true
+filtering... : 101111011010 true true
+filtering... : 111010011011 true true
+filtering... : 100111101010 true true
+filtering... : 011011011001 false true
+filtering... : 010100000011 false true
+filtering... : 001111010001 false true
+filtering... : 101010101101 true true
+filtering... : 110000011111 true true
+filtering... : 001111111111 false true
+filtering... : 000110000100 false true
+filtering... : 101111101010 true true
+filtering... : 101011011101 true true
+filtering... : 010001011010 false true
+filtering... : 001001011011 false true
+filtering... : 101011010010 true true
+filtering... : 111010000010 true true
+filtering... : 011100101000 false true
+filtering... : 101001011010 true true
+filtering... : 000111110101 false true
+filtering... : 110011011101 true true
+filtering... : 101010010011 true true
+filtering... : 101100001111 true true
+filtering... : 111001010001 true true
+filtering... : 100100010110 true true
+filtering... : 010100100001 false true
+filtering... : 011110110101 false true
+filtering... : 110100000111 true true
+filtering... : 110101001000 true true
+filtering... : 101000010000 true true
+filtering... : 110000000011 true true
+filtering... : 011111110110 false true
+filtering... : 100001010100 true true
+filtering... : 011111000101 false true
+filtering... : 010010101001 false true
+filtering... : 000111100100 false true
+filtering... : 001010000110 false true
+filtering... : 100100110110 true true
+filtering... : 110010101101 true true
+filtering... : 010001111101 false true
+filtering... : 101100000000 true true
+filtering... : 001100000000 false true
+filtering... : 011111111110 false true
+filtering... : 110001100101 true true
+filtering... : 000111001100 false true
+filtering... : 011101111110 false true
+filtering... : 000100110000 false true
+filtering... : 111111111000 true true
+filtering... : 101110010001 true true
+filtering... : 100111000010 true true
+filtering... : 100111011110 true true
+filtering... : 000100111010 false true
+filtering... : 110101011011 true true
+filtering... : 001000111110 false true
+filtering... : 101101110110 true true
+filtering... : 110110010011 true true
+filtering... : 011010100101 false true
+filtering... : 001010101111 false true
+filtering... : 100110111001 true true
+filtering... : 010001111100 false true
+filtering... : 010110101000 false true
+filtering... : 011000000000 false true
+filtering... : 010001011111 false true
+filtering... : 010101101111 false true
+filtering... : 111001010110 true true
+filtering... : 100001001011 true true
+filtering... : 110000100111 true true
+filtering... : 011100000001 false true
+filtering... : 110101100000 true true
+filtering... : 110010110010 true true
+filtering... : 111010111001 true true
+filtering... : 011010111000 false true
+filtering... : 101100000110 true true
+filtering... : 010100011111 false true
+filtering... : 001010111000 false true
+filtering... : 101100101101 true true
+filtering... : 011000111010 false true
+filtering... : 000001001100 false true
+filtering... : 001111010010 false true
+filtering... : 011010100000 false true
+filtering... : 110100110111 true true
+filtering... : 101101000100 true true
+filtering... : 001110001101 false true
+filtering... : 111001101111 true true
+110001010111
+110011110011
+101000010111
+111001011100
+111000010000
+100001100000
+111010111110
+100011000101
+100110110011
+101010110011
+110101110010
+110111100010
+101000000111
+100100110011
+111111100011
+110010001010
+100010110011
+111101101001
+101001001101
+110111011101
+100100101101
+111111000011
+110011100011
+111101001011
+100001101000
+100101100011
+101000001001
+111001010010
+110110111111
+111111010000
+110111110011
+110110010010
+101101100110
+110011100100
+101000010100
+100011001001
+110101101001
+100011110011
+110101010001
+100010100000
+110010010001
+101100111011
+111110110001
+100100100101
+101111001000
+101011001001
+110000100010
+111100010100
+101111100101
+100100101111
+100011101100
+111111000110
+111001011101
+101010101110
+111111011100
+101010010000
+101001001100
+101010101100
+111000000101
+111001101100
+100110100000
+100001111110
+101110100011
+100010111111
+100110010011
+110001011101
+111110000000
+111001101000
+100111000100
+101100110010
+111001111101
+111100010111
+110000010101
+110000101100
+101111010011
+100111100011
+110100101111
+101000001000
+100111111010
+100111101100
+100111010100
+111100010110
+100001010011
+111101010101
+101110101010
+111110001110
+100110001000
+101111001111
+110010011101
+110001110101
+110010111100
+111111000101
+101010110010
+100010010011
+101011010000
+101011101111
+111100101101
+110011111100
+111100111111
+111010111000
+110001010011
+100110111000
+110010001001
+111111011010
+111011111011
+100001110111
+111000101101
+100000101011
+111000001100
+110110110000
+101000000011
+101111110100
+101001100111
+101100001101
+100100101100
+110010000000
+101001000000
+110001110011
+100000111100
+101011011111
+111100111001
+111010101101
+101100001001
+100000001111
+111101111110
+110110100101
+100111100001
+100110101110
+100000010011
+110000000001
+111001001010
+101011100101
+100100000000
+110001101011
+110010110100
+101010101011
+100100001100
+101010000010
+111101100100
+100110000011
+110111011100
+111011010111
+100100110000
+100001111111
+111111000100
+100101010010
+111101100111
+111011011011
+111000100110
+101011001011
+100000000111
+100110011010
+101100010011
+101011011100
+110101110111
+111101011010
+100000100010
+101101001110
+110011101011
+110101011000
+100110100001
+111111101101
+110101011010
+101101010001
+101001010011
+101001010111
+101011110000
+111011000111
+100111001101
+100001111000
+111011010011
+110000101010
+110001111010
+100101000100
+101000101010
+101011100100
+101101111010
+111011111110
+101110100110
+101100100000
+101100011100
+111011100111
+111111110010
+101101100100
+111001010100
+110110001110
+111110100110
+101000010010
+100000101010
+110010011110
+110110100010
+111100000111
+101011000000
+100101001100
+110010011001
+111100111110
+110000111000
+110111100001
+100010001110
+111100011000
+110000000101
+111001111010
+101111111111
+101000000110
+111110010101
+100111100000
+111001111111
+101101011011
+111110111010
+111101100001
+110100010100
+101111011000
+100100101011
+100100111101
+100000000011
+101111001010
+100101011100
+111001110100
+100111001111
+101010011011
+101000010101
+101001101000
+101110111100
+100111111111
+110011100111
+100101000011
+100101010011
+111000110110
+110111011111
+100000000001
+100000100011
+110010011111
+111101110110
+111100110001
+100110100101
+100100001111
+110100010010
+101101100111
+101101111100
+101011000100
+100101101011
+110000111110
+110110111100
+111001000001
+110110000101
+101100101011
+101110000010
+101010100001
+101110010000
+110000000010
+101100011101
+101000001010
+101011010001
+101001011110
+100101011000
+111100011110
+100001010000
+110111010111
+101011000011
+111111111111
+111111011110
+110001100001
+101000100100
+110110001101
+110011001000
+101111011101
+111110001011
+100100000001
+111110010011
+111010010111
+101001110011
+110011001011
+110110101000
+110111001000
+110010010101
+110010011010
+101100101100
+110001000111
+100101001010
+101000011011
+101011010111
+111001000011
+100100100110
+101010101000
+100010110000
+100001011110
+100000110110
+111000101010
+111001011001
+101111010010
+100010111000
+101110000111
+110001100010
+110100000101
+101110100111
+100100100001
+101000111100
+100011101110
+110010000101
+101100011001
+100000010111
+100001001100
+110111101100
+111001101010
+110000110111
+101011010101
+100000110111
+101001110010
+100011011100
+100000100111
+110100110000
+101101011000
+101110010101
+110001001000
+100111010011
+110101111001
+100010101011
+111010001110
+110001100111
+111000010010
+111001000010
+100100100100
+110010101001
+111101101010
+111111100101
+100010010001
+111101011000
+100010100110
+100001110100
+101100100111
+101101100101
+100101110111
+111101010001
+100011000111
+100000001001
+101101011110
+111110010010
+111010011101
+110101100001
+100101101000
+111110000101
+101000001101
+110101010000
+111110101110
+101000100101
+110011000010
+101011010100
+111100011001
+100000111110
+110001101010
+100111101001
+100110001110
+110001010101
+101100001000
+100001000010
+111110101111
+101111101001
+101111000111
+111110101010
+110010010110
+111001001111
+100100010111
+101100001011
+100111000110
+111010111101
+101110000011
+110110001011
+111010100011
+111100011101
+101101101001
+110100001000
+110001011001
+110010100001
+111110010110
+100100100111
+110101011001
+111001100011
+100001000111
+110110011111
+100101010001
+100100011000
+101111001011
+111001011000
+110000101110
+110011101000
+111101100101
+100110001101
+111001111100
+101110011000
+111100101001
+110111011000
+100100000110
+110111101111
+111000111101
+111111100110
+110100110101
+110110111011
+100010111110
+100110111010
+100011001010
+100100100000
+101000110110
+110111100110
+111100001010
+100100001101
+100010011100
+101001010000
+110101001101
+101001100100
+100000111010
+100011110010
+100100011111
+100011100101
+111001101101
+101011100001
+101100111100
+100001000000
+110111110010
+100110000111
+100000111011
+111010011110
+101011000110
+100010100001
+111000100101
+110110100011
+100000011100
+101110101101
+101011111110
+101001001010
+111000001000
+111111110100
+110101001100
+100011011001
+100010101101
+111110101011
+110100000000
+110111011011
+101111011010
+111010011011
+100111101010
+101010101101
+110000011111
+101111101010
+101011011101
+101011010010
+111010000010
+101001011010
+110011011101
+101010010011
+101100001111
+111001010001
+100100010110
+110100000111
+110101001000
+101000010000
+110000000011
+100001010100
+100100110110
+110010101101
+101100000000
+110001100101
+111111111000
+101110010001
+100111000010
+100111011110
+110101011011
+101101110110
+110110010011
+100110111001
+111001010110
+100001001011
+110000100111
+110101100000
+110010110010
+111010111001
+101100000110
+101100101101
+110100110111
+101101000100
+111001101111
+-----
+round we go
+position : 10
+gamma_map : [false, true, true, false, true, true, true, true, true, true, false, false]
+gamma bit : true
+filtering... : 110001010111 true true
+filtering... : 110011110011 true true
+filtering... : 101000010111 false true
+filtering... : 111001011100 true true
+filtering... : 111000010000 true true
+filtering... : 100001100000 false true
+filtering... : 111010111110 true true
+filtering... : 100011000101 false true
+filtering... : 100110110011 false true
+filtering... : 101010110011 false true
+filtering... : 110101110010 true true
+filtering... : 110111100010 true true
+filtering... : 101000000111 false true
+filtering... : 100100110011 false true
+filtering... : 111111100011 true true
+filtering... : 110010001010 true true
+filtering... : 100010110011 false true
+filtering... : 111101101001 true true
+filtering... : 101001001101 false true
+filtering... : 110111011101 true true
+filtering... : 100100101101 false true
+filtering... : 111111000011 true true
+filtering... : 110011100011 true true
+filtering... : 111101001011 true true
+filtering... : 100001101000 false true
+filtering... : 100101100011 false true
+filtering... : 101000001001 false true
+filtering... : 111001010010 true true
+filtering... : 110110111111 true true
+filtering... : 111111010000 true true
+filtering... : 110111110011 true true
+filtering... : 110110010010 true true
+filtering... : 101101100110 false true
+filtering... : 110011100100 true true
+filtering... : 101000010100 false true
+filtering... : 100011001001 false true
+filtering... : 110101101001 true true
+filtering... : 100011110011 false true
+filtering... : 110101010001 true true
+filtering... : 100010100000 false true
+filtering... : 110010010001 true true
+filtering... : 101100111011 false true
+filtering... : 111110110001 true true
+filtering... : 100100100101 false true
+filtering... : 101111001000 false true
+filtering... : 101011001001 false true
+filtering... : 110000100010 true true
+filtering... : 111100010100 true true
+filtering... : 101111100101 false true
+filtering... : 100100101111 false true
+filtering... : 100011101100 false true
+filtering... : 111111000110 true true
+filtering... : 111001011101 true true
+filtering... : 101010101110 false true
+filtering... : 111111011100 true true
+filtering... : 101010010000 false true
+filtering... : 101001001100 false true
+filtering... : 101010101100 false true
+filtering... : 111000000101 true true
+filtering... : 111001101100 true true
+filtering... : 100110100000 false true
+filtering... : 100001111110 false true
+filtering... : 101110100011 false true
+filtering... : 100010111111 false true
+filtering... : 100110010011 false true
+filtering... : 110001011101 true true
+filtering... : 111110000000 true true
+filtering... : 111001101000 true true
+filtering... : 100111000100 false true
+filtering... : 101100110010 false true
+filtering... : 111001111101 true true
+filtering... : 111100010111 true true
+filtering... : 110000010101 true true
+filtering... : 110000101100 true true
+filtering... : 101111010011 false true
+filtering... : 100111100011 false true
+filtering... : 110100101111 true true
+filtering... : 101000001000 false true
+filtering... : 100111111010 false true
+filtering... : 100111101100 false true
+filtering... : 100111010100 false true
+filtering... : 111100010110 true true
+filtering... : 100001010011 false true
+filtering... : 111101010101 true true
+filtering... : 101110101010 false true
+filtering... : 111110001110 true true
+filtering... : 100110001000 false true
+filtering... : 101111001111 false true
+filtering... : 110010011101 true true
+filtering... : 110001110101 true true
+filtering... : 110010111100 true true
+filtering... : 111111000101 true true
+filtering... : 101010110010 false true
+filtering... : 100010010011 false true
+filtering... : 101011010000 false true
+filtering... : 101011101111 false true
+filtering... : 111100101101 true true
+filtering... : 110011111100 true true
+filtering... : 111100111111 true true
+filtering... : 111010111000 true true
+filtering... : 110001010011 true true
+filtering... : 100110111000 false true
+filtering... : 110010001001 true true
+filtering... : 111111011010 true true
+filtering... : 111011111011 true true
+filtering... : 100001110111 false true
+filtering... : 111000101101 true true
+filtering... : 100000101011 false true
+filtering... : 111000001100 true true
+filtering... : 110110110000 true true
+filtering... : 101000000011 false true
+filtering... : 101111110100 false true
+filtering... : 101001100111 false true
+filtering... : 101100001101 false true
+filtering... : 100100101100 false true
+filtering... : 110010000000 true true
+filtering... : 101001000000 false true
+filtering... : 110001110011 true true
+filtering... : 100000111100 false true
+filtering... : 101011011111 false true
+filtering... : 111100111001 true true
+filtering... : 111010101101 true true
+filtering... : 101100001001 false true
+filtering... : 100000001111 false true
+filtering... : 111101111110 true true
+filtering... : 110110100101 true true
+filtering... : 100111100001 false true
+filtering... : 100110101110 false true
+filtering... : 100000010011 false true
+filtering... : 110000000001 true true
+filtering... : 111001001010 true true
+filtering... : 101011100101 false true
+filtering... : 100100000000 false true
+filtering... : 110001101011 true true
+filtering... : 110010110100 true true
+filtering... : 101010101011 false true
+filtering... : 100100001100 false true
+filtering... : 101010000010 false true
+filtering... : 111101100100 true true
+filtering... : 100110000011 false true
+filtering... : 110111011100 true true
+filtering... : 111011010111 true true
+filtering... : 100100110000 false true
+filtering... : 100001111111 false true
+filtering... : 111111000100 true true
+filtering... : 100101010010 false true
+filtering... : 111101100111 true true
+filtering... : 111011011011 true true
+filtering... : 111000100110 true true
+filtering... : 101011001011 false true
+filtering... : 100000000111 false true
+filtering... : 100110011010 false true
+filtering... : 101100010011 false true
+filtering... : 101011011100 false true
+filtering... : 110101110111 true true
+filtering... : 111101011010 true true
+filtering... : 100000100010 false true
+filtering... : 101101001110 false true
+filtering... : 110011101011 true true
+filtering... : 110101011000 true true
+filtering... : 100110100001 false true
+filtering... : 111111101101 true true
+filtering... : 110101011010 true true
+filtering... : 101101010001 false true
+filtering... : 101001010011 false true
+filtering... : 101001010111 false true
+filtering... : 101011110000 false true
+filtering... : 111011000111 true true
+filtering... : 100111001101 false true
+filtering... : 100001111000 false true
+filtering... : 111011010011 true true
+filtering... : 110000101010 true true
+filtering... : 110001111010 true true
+filtering... : 100101000100 false true
+filtering... : 101000101010 false true
+filtering... : 101011100100 false true
+filtering... : 101101111010 false true
+filtering... : 111011111110 true true
+filtering... : 101110100110 false true
+filtering... : 101100100000 false true
+filtering... : 101100011100 false true
+filtering... : 111011100111 true true
+filtering... : 111111110010 true true
+filtering... : 101101100100 false true
+filtering... : 111001010100 true true
+filtering... : 110110001110 true true
+filtering... : 111110100110 true true
+filtering... : 101000010010 false true
+filtering... : 100000101010 false true
+filtering... : 110010011110 true true
+filtering... : 110110100010 true true
+filtering... : 111100000111 true true
+filtering... : 101011000000 false true
+filtering... : 100101001100 false true
+filtering... : 110010011001 true true
+filtering... : 111100111110 true true
+filtering... : 110000111000 true true
+filtering... : 110111100001 true true
+filtering... : 100010001110 false true
+filtering... : 111100011000 true true
+filtering... : 110000000101 true true
+filtering... : 111001111010 true true
+filtering... : 101111111111 false true
+filtering... : 101000000110 false true
+filtering... : 111110010101 true true
+filtering... : 100111100000 false true
+filtering... : 111001111111 true true
+filtering... : 101101011011 false true
+filtering... : 111110111010 true true
+filtering... : 111101100001 true true
+filtering... : 110100010100 true true
+filtering... : 101111011000 false true
+filtering... : 100100101011 false true
+filtering... : 100100111101 false true
+filtering... : 100000000011 false true
+filtering... : 101111001010 false true
+filtering... : 100101011100 false true
+filtering... : 111001110100 true true
+filtering... : 100111001111 false true
+filtering... : 101010011011 false true
+filtering... : 101000010101 false true
+filtering... : 101001101000 false true
+filtering... : 101110111100 false true
+filtering... : 100111111111 false true
+filtering... : 110011100111 true true
+filtering... : 100101000011 false true
+filtering... : 100101010011 false true
+filtering... : 111000110110 true true
+filtering... : 110111011111 true true
+filtering... : 100000000001 false true
+filtering... : 100000100011 false true
+filtering... : 110010011111 true true
+filtering... : 111101110110 true true
+filtering... : 111100110001 true true
+filtering... : 100110100101 false true
+filtering... : 100100001111 false true
+filtering... : 110100010010 true true
+filtering... : 101101100111 false true
+filtering... : 101101111100 false true
+filtering... : 101011000100 false true
+filtering... : 100101101011 false true
+filtering... : 110000111110 true true
+filtering... : 110110111100 true true
+filtering... : 111001000001 true true
+filtering... : 110110000101 true true
+filtering... : 101100101011 false true
+filtering... : 101110000010 false true
+filtering... : 101010100001 false true
+filtering... : 101110010000 false true
+filtering... : 110000000010 true true
+filtering... : 101100011101 false true
+filtering... : 101000001010 false true
+filtering... : 101011010001 false true
+filtering... : 101001011110 false true
+filtering... : 100101011000 false true
+filtering... : 111100011110 true true
+filtering... : 100001010000 false true
+filtering... : 110111010111 true true
+filtering... : 101011000011 false true
+filtering... : 111111111111 true true
+filtering... : 111111011110 true true
+filtering... : 110001100001 true true
+filtering... : 101000100100 false true
+filtering... : 110110001101 true true
+filtering... : 110011001000 true true
+filtering... : 101111011101 false true
+filtering... : 111110001011 true true
+filtering... : 100100000001 false true
+filtering... : 111110010011 true true
+filtering... : 111010010111 true true
+filtering... : 101001110011 false true
+filtering... : 110011001011 true true
+filtering... : 110110101000 true true
+filtering... : 110111001000 true true
+filtering... : 110010010101 true true
+filtering... : 110010011010 true true
+filtering... : 101100101100 false true
+filtering... : 110001000111 true true
+filtering... : 100101001010 false true
+filtering... : 101000011011 false true
+filtering... : 101011010111 false true
+filtering... : 111001000011 true true
+filtering... : 100100100110 false true
+filtering... : 101010101000 false true
+filtering... : 100010110000 false true
+filtering... : 100001011110 false true
+filtering... : 100000110110 false true
+filtering... : 111000101010 true true
+filtering... : 111001011001 true true
+filtering... : 101111010010 false true
+filtering... : 100010111000 false true
+filtering... : 101110000111 false true
+filtering... : 110001100010 true true
+filtering... : 110100000101 true true
+filtering... : 101110100111 false true
+filtering... : 100100100001 false true
+filtering... : 101000111100 false true
+filtering... : 100011101110 false true
+filtering... : 110010000101 true true
+filtering... : 101100011001 false true
+filtering... : 100000010111 false true
+filtering... : 100001001100 false true
+filtering... : 110111101100 true true
+filtering... : 111001101010 true true
+filtering... : 110000110111 true true
+filtering... : 101011010101 false true
+filtering... : 100000110111 false true
+filtering... : 101001110010 false true
+filtering... : 100011011100 false true
+filtering... : 100000100111 false true
+filtering... : 110100110000 true true
+filtering... : 101101011000 false true
+filtering... : 101110010101 false true
+filtering... : 110001001000 true true
+filtering... : 100111010011 false true
+filtering... : 110101111001 true true
+filtering... : 100010101011 false true
+filtering... : 111010001110 true true
+filtering... : 110001100111 true true
+filtering... : 111000010010 true true
+filtering... : 111001000010 true true
+filtering... : 100100100100 false true
+filtering... : 110010101001 true true
+filtering... : 111101101010 true true
+filtering... : 111111100101 true true
+filtering... : 100010010001 false true
+filtering... : 111101011000 true true
+filtering... : 100010100110 false true
+filtering... : 100001110100 false true
+filtering... : 101100100111 false true
+filtering... : 101101100101 false true
+filtering... : 100101110111 false true
+filtering... : 111101010001 true true
+filtering... : 100011000111 false true
+filtering... : 100000001001 false true
+filtering... : 101101011110 false true
+filtering... : 111110010010 true true
+filtering... : 111010011101 true true
+filtering... : 110101100001 true true
+filtering... : 100101101000 false true
+filtering... : 111110000101 true true
+filtering... : 101000001101 false true
+filtering... : 110101010000 true true
+filtering... : 111110101110 true true
+filtering... : 101000100101 false true
+filtering... : 110011000010 true true
+filtering... : 101011010100 false true
+filtering... : 111100011001 true true
+filtering... : 100000111110 false true
+filtering... : 110001101010 true true
+filtering... : 100111101001 false true
+filtering... : 100110001110 false true
+filtering... : 110001010101 true true
+filtering... : 101100001000 false true
+filtering... : 100001000010 false true
+filtering... : 111110101111 true true
+filtering... : 101111101001 false true
+filtering... : 101111000111 false true
+filtering... : 111110101010 true true
+filtering... : 110010010110 true true
+filtering... : 111001001111 true true
+filtering... : 100100010111 false true
+filtering... : 101100001011 false true
+filtering... : 100111000110 false true
+filtering... : 111010111101 true true
+filtering... : 101110000011 false true
+filtering... : 110110001011 true true
+filtering... : 111010100011 true true
+filtering... : 111100011101 true true
+filtering... : 101101101001 false true
+filtering... : 110100001000 true true
+filtering... : 110001011001 true true
+filtering... : 110010100001 true true
+filtering... : 111110010110 true true
+filtering... : 100100100111 false true
+filtering... : 110101011001 true true
+filtering... : 111001100011 true true
+filtering... : 100001000111 false true
+filtering... : 110110011111 true true
+filtering... : 100101010001 false true
+filtering... : 100100011000 false true
+filtering... : 101111001011 false true
+filtering... : 111001011000 true true
+filtering... : 110000101110 true true
+filtering... : 110011101000 true true
+filtering... : 111101100101 true true
+filtering... : 100110001101 false true
+filtering... : 111001111100 true true
+filtering... : 101110011000 false true
+filtering... : 111100101001 true true
+filtering... : 110111011000 true true
+filtering... : 100100000110 false true
+filtering... : 110111101111 true true
+filtering... : 111000111101 true true
+filtering... : 111111100110 true true
+filtering... : 110100110101 true true
+filtering... : 110110111011 true true
+filtering... : 100010111110 false true
+filtering... : 100110111010 false true
+filtering... : 100011001010 false true
+filtering... : 100100100000 false true
+filtering... : 101000110110 false true
+filtering... : 110111100110 true true
+filtering... : 111100001010 true true
+filtering... : 100100001101 false true
+filtering... : 100010011100 false true
+filtering... : 101001010000 false true
+filtering... : 110101001101 true true
+filtering... : 101001100100 false true
+filtering... : 100000111010 false true
+filtering... : 100011110010 false true
+filtering... : 100100011111 false true
+filtering... : 100011100101 false true
+filtering... : 111001101101 true true
+filtering... : 101011100001 false true
+filtering... : 101100111100 false true
+filtering... : 100001000000 false true
+filtering... : 110111110010 true true
+filtering... : 100110000111 false true
+filtering... : 100000111011 false true
+filtering... : 111010011110 true true
+filtering... : 101011000110 false true
+filtering... : 100010100001 false true
+filtering... : 111000100101 true true
+filtering... : 110110100011 true true
+filtering... : 100000011100 false true
+filtering... : 101110101101 false true
+filtering... : 101011111110 false true
+filtering... : 101001001010 false true
+filtering... : 111000001000 true true
+filtering... : 111111110100 true true
+filtering... : 110101001100 true true
+filtering... : 100011011001 false true
+filtering... : 100010101101 false true
+filtering... : 111110101011 true true
+filtering... : 110100000000 true true
+filtering... : 110111011011 true true
+filtering... : 101111011010 false true
+filtering... : 111010011011 true true
+filtering... : 100111101010 false true
+filtering... : 101010101101 false true
+filtering... : 110000011111 true true
+filtering... : 101111101010 false true
+filtering... : 101011011101 false true
+filtering... : 101011010010 false true
+filtering... : 111010000010 true true
+filtering... : 101001011010 false true
+filtering... : 110011011101 true true
+filtering... : 101010010011 false true
+filtering... : 101100001111 false true
+filtering... : 111001010001 true true
+filtering... : 100100010110 false true
+filtering... : 110100000111 true true
+filtering... : 110101001000 true true
+filtering... : 101000010000 false true
+filtering... : 110000000011 true true
+filtering... : 100001010100 false true
+filtering... : 100100110110 false true
+filtering... : 110010101101 true true
+filtering... : 101100000000 false true
+filtering... : 110001100101 true true
+filtering... : 111111111000 true true
+filtering... : 101110010001 false true
+filtering... : 100111000010 false true
+filtering... : 100111011110 false true
+filtering... : 110101011011 true true
+filtering... : 101101110110 false true
+filtering... : 110110010011 true true
+filtering... : 100110111001 false true
+filtering... : 111001010110 true true
+filtering... : 100001001011 false true
+filtering... : 110000100111 true true
+filtering... : 110101100000 true true
+filtering... : 110010110010 true true
+filtering... : 111010111001 true true
+filtering... : 101100000110 false true
+filtering... : 101100101101 false true
+filtering... : 110100110111 true true
+filtering... : 101101000100 false true
+filtering... : 111001101111 true true
+110001010111
+110011110011
+111001011100
+111000010000
+111010111110
+110101110010
+110111100010
+111111100011
+110010001010
+111101101001
+110111011101
+111111000011
+110011100011
+111101001011
+111001010010
+110110111111
+111111010000
+110111110011
+110110010010
+110011100100
+110101101001
+110101010001
+110010010001
+111110110001
+110000100010
+111100010100
+111111000110
+111001011101
+111111011100
+111000000101
+111001101100
+110001011101
+111110000000
+111001101000
+111001111101
+111100010111
+110000010101
+110000101100
+110100101111
+111100010110
+111101010101
+111110001110
+110010011101
+110001110101
+110010111100
+111111000101
+111100101101
+110011111100
+111100111111
+111010111000
+110001010011
+110010001001
+111111011010
+111011111011
+111000101101
+111000001100
+110110110000
+110010000000
+110001110011
+111100111001
+111010101101
+111101111110
+110110100101
+110000000001
+111001001010
+110001101011
+110010110100
+111101100100
+110111011100
+111011010111
+111111000100
+111101100111
+111011011011
+111000100110
+110101110111
+111101011010
+110011101011
+110101011000
+111111101101
+110101011010
+111011000111
+111011010011
+110000101010
+110001111010
+111011111110
+111011100111
+111111110010
+111001010100
+110110001110
+111110100110
+110010011110
+110110100010
+111100000111
+110010011001
+111100111110
+110000111000
+110111100001
+111100011000
+110000000101
+111001111010
+111110010101
+111001111111
+111110111010
+111101100001
+110100010100
+111001110100
+110011100111
+111000110110
+110111011111
+110010011111
+111101110110
+111100110001
+110100010010
+110000111110
+110110111100
+111001000001
+110110000101
+110000000010
+111100011110
+110111010111
+111111111111
+111111011110
+110001100001
+110110001101
+110011001000
+111110001011
+111110010011
+111010010111
+110011001011
+110110101000
+110111001000
+110010010101
+110010011010
+110001000111
+111001000011
+111000101010
+111001011001
+110001100010
+110100000101
+110010000101
+110111101100
+111001101010
+110000110111
+110100110000
+110001001000
+110101111001
+111010001110
+110001100111
+111000010010
+111001000010
+110010101001
+111101101010
+111111100101
+111101011000
+111101010001
+111110010010
+111010011101
+110101100001
+111110000101
+110101010000
+111110101110
+110011000010
+111100011001
+110001101010
+110001010101
+111110101111
+111110101010
+110010010110
+111001001111
+111010111101
+110110001011
+111010100011
+111100011101
+110100001000
+110001011001
+110010100001
+111110010110
+110101011001
+111001100011
+110110011111
+111001011000
+110000101110
+110011101000
+111101100101
+111001111100
+111100101001
+110111011000
+110111101111
+111000111101
+111111100110
+110100110101
+110110111011
+110111100110
+111100001010
+110101001101
+111001101101
+110111110010
+111010011110
+111000100101
+110110100011
+111000001000
+111111110100
+110101001100
+111110101011
+110100000000
+110111011011
+111010011011
+110000011111
+111010000010
+110011011101
+111001010001
+110100000111
+110101001000
+110000000011
+110010101101
+110001100101
+111111111000
+110101011011
+110110010011
+111001010110
+110000100111
+110101100000
+110010110010
+111010111001
+110100110111
+111001101111
+-----
+round we go
+position : 9
+gamma_map : [false, false, false, false, true, false, true, false, false, false, false, false]
+gamma bit : false
+filtering... : 110001010111 false false
+filtering... : 110011110011 false false
+filtering... : 111001011100 true false
+filtering... : 111000010000 true false
+filtering... : 111010111110 true false
+filtering... : 110101110010 false false
+filtering... : 110111100010 false false
+filtering... : 111111100011 true false
+filtering... : 110010001010 false false
+filtering... : 111101101001 true false
+filtering... : 110111011101 false false
+filtering... : 111111000011 true false
+filtering... : 110011100011 false false
+filtering... : 111101001011 true false
+filtering... : 111001010010 true false
+filtering... : 110110111111 false false
+filtering... : 111111010000 true false
+filtering... : 110111110011 false false
+filtering... : 110110010010 false false
+filtering... : 110011100100 false false
+filtering... : 110101101001 false false
+filtering... : 110101010001 false false
+filtering... : 110010010001 false false
+filtering... : 111110110001 true false
+filtering... : 110000100010 false false
+filtering... : 111100010100 true false
+filtering... : 111111000110 true false
+filtering... : 111001011101 true false
+filtering... : 111111011100 true false
+filtering... : 111000000101 true false
+filtering... : 111001101100 true false
+filtering... : 110001011101 false false
+filtering... : 111110000000 true false
+filtering... : 111001101000 true false
+filtering... : 111001111101 true false
+filtering... : 111100010111 true false
+filtering... : 110000010101 false false
+filtering... : 110000101100 false false
+filtering... : 110100101111 false false
+filtering... : 111100010110 true false
+filtering... : 111101010101 true false
+filtering... : 111110001110 true false
+filtering... : 110010011101 false false
+filtering... : 110001110101 false false
+filtering... : 110010111100 false false
+filtering... : 111111000101 true false
+filtering... : 111100101101 true false
+filtering... : 110011111100 false false
+filtering... : 111100111111 true false
+filtering... : 111010111000 true false
+filtering... : 110001010011 false false
+filtering... : 110010001001 false false
+filtering... : 111111011010 true false
+filtering... : 111011111011 true false
+filtering... : 111000101101 true false
+filtering... : 111000001100 true false
+filtering... : 110110110000 false false
+filtering... : 110010000000 false false
+filtering... : 110001110011 false false
+filtering... : 111100111001 true false
+filtering... : 111010101101 true false
+filtering... : 111101111110 true false
+filtering... : 110110100101 false false
+filtering... : 110000000001 false false
+filtering... : 111001001010 true false
+filtering... : 110001101011 false false
+filtering... : 110010110100 false false
+filtering... : 111101100100 true false
+filtering... : 110111011100 false false
+filtering... : 111011010111 true false
+filtering... : 111111000100 true false
+filtering... : 111101100111 true false
+filtering... : 111011011011 true false
+filtering... : 111000100110 true false
+filtering... : 110101110111 false false
+filtering... : 111101011010 true false
+filtering... : 110011101011 false false
+filtering... : 110101011000 false false
+filtering... : 111111101101 true false
+filtering... : 110101011010 false false
+filtering... : 111011000111 true false
+filtering... : 111011010011 true false
+filtering... : 110000101010 false false
+filtering... : 110001111010 false false
+filtering... : 111011111110 true false
+filtering... : 111011100111 true false
+filtering... : 111111110010 true false
+filtering... : 111001010100 true false
+filtering... : 110110001110 false false
+filtering... : 111110100110 true false
+filtering... : 110010011110 false false
+filtering... : 110110100010 false false
+filtering... : 111100000111 true false
+filtering... : 110010011001 false false
+filtering... : 111100111110 true false
+filtering... : 110000111000 false false
+filtering... : 110111100001 false false
+filtering... : 111100011000 true false
+filtering... : 110000000101 false false
+filtering... : 111001111010 true false
+filtering... : 111110010101 true false
+filtering... : 111001111111 true false
+filtering... : 111110111010 true false
+filtering... : 111101100001 true false
+filtering... : 110100010100 false false
+filtering... : 111001110100 true false
+filtering... : 110011100111 false false
+filtering... : 111000110110 true false
+filtering... : 110111011111 false false
+filtering... : 110010011111 false false
+filtering... : 111101110110 true false
+filtering... : 111100110001 true false
+filtering... : 110100010010 false false
+filtering... : 110000111110 false false
+filtering... : 110110111100 false false
+filtering... : 111001000001 true false
+filtering... : 110110000101 false false
+filtering... : 110000000010 false false
+filtering... : 111100011110 true false
+filtering... : 110111010111 false false
+filtering... : 111111111111 true false
+filtering... : 111111011110 true false
+filtering... : 110001100001 false false
+filtering... : 110110001101 false false
+filtering... : 110011001000 false false
+filtering... : 111110001011 true false
+filtering... : 111110010011 true false
+filtering... : 111010010111 true false
+filtering... : 110011001011 false false
+filtering... : 110110101000 false false
+filtering... : 110111001000 false false
+filtering... : 110010010101 false false
+filtering... : 110010011010 false false
+filtering... : 110001000111 false false
+filtering... : 111001000011 true false
+filtering... : 111000101010 true false
+filtering... : 111001011001 true false
+filtering... : 110001100010 false false
+filtering... : 110100000101 false false
+filtering... : 110010000101 false false
+filtering... : 110111101100 false false
+filtering... : 111001101010 true false
+filtering... : 110000110111 false false
+filtering... : 110100110000 false false
+filtering... : 110001001000 false false
+filtering... : 110101111001 false false
+filtering... : 111010001110 true false
+filtering... : 110001100111 false false
+filtering... : 111000010010 true false
+filtering... : 111001000010 true false
+filtering... : 110010101001 false false
+filtering... : 111101101010 true false
+filtering... : 111111100101 true false
+filtering... : 111101011000 true false
+filtering... : 111101010001 true false
+filtering... : 111110010010 true false
+filtering... : 111010011101 true false
+filtering... : 110101100001 false false
+filtering... : 111110000101 true false
+filtering... : 110101010000 false false
+filtering... : 111110101110 true false
+filtering... : 110011000010 false false
+filtering... : 111100011001 true false
+filtering... : 110001101010 false false
+filtering... : 110001010101 false false
+filtering... : 111110101111 true false
+filtering... : 111110101010 true false
+filtering... : 110010010110 false false
+filtering... : 111001001111 true false
+filtering... : 111010111101 true false
+filtering... : 110110001011 false false
+filtering... : 111010100011 true false
+filtering... : 111100011101 true false
+filtering... : 110100001000 false false
+filtering... : 110001011001 false false
+filtering... : 110010100001 false false
+filtering... : 111110010110 true false
+filtering... : 110101011001 false false
+filtering... : 111001100011 true false
+filtering... : 110110011111 false false
+filtering... : 111001011000 true false
+filtering... : 110000101110 false false
+filtering... : 110011101000 false false
+filtering... : 111101100101 true false
+filtering... : 111001111100 true false
+filtering... : 111100101001 true false
+filtering... : 110111011000 false false
+filtering... : 110111101111 false false
+filtering... : 111000111101 true false
+filtering... : 111111100110 true false
+filtering... : 110100110101 false false
+filtering... : 110110111011 false false
+filtering... : 110111100110 false false
+filtering... : 111100001010 true false
+filtering... : 110101001101 false false
+filtering... : 111001101101 true false
+filtering... : 110111110010 false false
+filtering... : 111010011110 true false
+filtering... : 111000100101 true false
+filtering... : 110110100011 false false
+filtering... : 111000001000 true false
+filtering... : 111111110100 true false
+filtering... : 110101001100 false false
+filtering... : 111110101011 true false
+filtering... : 110100000000 false false
+filtering... : 110111011011 false false
+filtering... : 111010011011 true false
+filtering... : 110000011111 false false
+filtering... : 111010000010 true false
+filtering... : 110011011101 false false
+filtering... : 111001010001 true false
+filtering... : 110100000111 false false
+filtering... : 110101001000 false false
+filtering... : 110000000011 false false
+filtering... : 110010101101 false false
+filtering... : 110001100101 false false
+filtering... : 111111111000 true false
+filtering... : 110101011011 false false
+filtering... : 110110010011 false false
+filtering... : 111001010110 true false
+filtering... : 110000100111 false false
+filtering... : 110101100000 false false
+filtering... : 110010110010 false false
+filtering... : 111010111001 true false
+filtering... : 110100110111 false false
+filtering... : 111001101111 true false
+110001010111
+110011110011
+110101110010
+110111100010
+110010001010
+110111011101
+110011100011
+110110111111
+110111110011
+110110010010
+110011100100
+110101101001
+110101010001
+110010010001
+110000100010
+110001011101
+110000010101
+110000101100
+110100101111
+110010011101
+110001110101
+110010111100
+110011111100
+110001010011
+110010001001
+110110110000
+110010000000
+110001110011
+110110100101
+110000000001
+110001101011
+110010110100
+110111011100
+110101110111
+110011101011
+110101011000
+110101011010
+110000101010
+110001111010
+110110001110
+110010011110
+110110100010
+110010011001
+110000111000
+110111100001
+110000000101
+110100010100
+110011100111
+110111011111
+110010011111
+110100010010
+110000111110
+110110111100
+110110000101
+110000000010
+110111010111
+110001100001
+110110001101
+110011001000
+110011001011
+110110101000
+110111001000
+110010010101
+110010011010
+110001000111
+110001100010
+110100000101
+110010000101
+110111101100
+110000110111
+110100110000
+110001001000
+110101111001
+110001100111
+110010101001
+110101100001
+110101010000
+110011000010
+110001101010
+110001010101
+110010010110
+110110001011
+110100001000
+110001011001
+110010100001
+110101011001
+110110011111
+110000101110
+110011101000
+110111011000
+110111101111
+110100110101
+110110111011
+110111100110
+110101001101
+110111110010
+110110100011
+110101001100
+110100000000
+110111011011
+110000011111
+110011011101
+110100000111
+110101001000
+110000000011
+110010101101
+110001100101
+110101011011
+110110010011
+110000100111
+110101100000
+110010110010
+110100110111
+-----
+round we go
+position : 8
+gamma_map : [false, false, true, true, false, true, true, true, true, true, true, false]
+gamma bit : true
+filtering... : 110001010111 false true
+filtering... : 110011110011 false true
+filtering... : 110101110010 true true
+filtering... : 110111100010 true true
+filtering... : 110010001010 false true
+filtering... : 110111011101 true true
+filtering... : 110011100011 false true
+filtering... : 110110111111 true true
+filtering... : 110111110011 true true
+filtering... : 110110010010 true true
+filtering... : 110011100100 false true
+filtering... : 110101101001 true true
+filtering... : 110101010001 true true
+filtering... : 110010010001 false true
+filtering... : 110000100010 false true
+filtering... : 110001011101 false true
+filtering... : 110000010101 false true
+filtering... : 110000101100 false true
+filtering... : 110100101111 true true
+filtering... : 110010011101 false true
+filtering... : 110001110101 false true
+filtering... : 110010111100 false true
+filtering... : 110011111100 false true
+filtering... : 110001010011 false true
+filtering... : 110010001001 false true
+filtering... : 110110110000 true true
+filtering... : 110010000000 false true
+filtering... : 110001110011 false true
+filtering... : 110110100101 true true
+filtering... : 110000000001 false true
+filtering... : 110001101011 false true
+filtering... : 110010110100 false true
+filtering... : 110111011100 true true
+filtering... : 110101110111 true true
+filtering... : 110011101011 false true
+filtering... : 110101011000 true true
+filtering... : 110101011010 true true
+filtering... : 110000101010 false true
+filtering... : 110001111010 false true
+filtering... : 110110001110 true true
+filtering... : 110010011110 false true
+filtering... : 110110100010 true true
+filtering... : 110010011001 false true
+filtering... : 110000111000 false true
+filtering... : 110111100001 true true
+filtering... : 110000000101 false true
+filtering... : 110100010100 true true
+filtering... : 110011100111 false true
+filtering... : 110111011111 true true
+filtering... : 110010011111 false true
+filtering... : 110100010010 true true
+filtering... : 110000111110 false true
+filtering... : 110110111100 true true
+filtering... : 110110000101 true true
+filtering... : 110000000010 false true
+filtering... : 110111010111 true true
+filtering... : 110001100001 false true
+filtering... : 110110001101 true true
+filtering... : 110011001000 false true
+filtering... : 110011001011 false true
+filtering... : 110110101000 true true
+filtering... : 110111001000 true true
+filtering... : 110010010101 false true
+filtering... : 110010011010 false true
+filtering... : 110001000111 false true
+filtering... : 110001100010 false true
+filtering... : 110100000101 true true
+filtering... : 110010000101 false true
+filtering... : 110111101100 true true
+filtering... : 110000110111 false true
+filtering... : 110100110000 true true
+filtering... : 110001001000 false true
+filtering... : 110101111001 true true
+filtering... : 110001100111 false true
+filtering... : 110010101001 false true
+filtering... : 110101100001 true true
+filtering... : 110101010000 true true
+filtering... : 110011000010 false true
+filtering... : 110001101010 false true
+filtering... : 110001010101 false true
+filtering... : 110010010110 false true
+filtering... : 110110001011 true true
+filtering... : 110100001000 true true
+filtering... : 110001011001 false true
+filtering... : 110010100001 false true
+filtering... : 110101011001 true true
+filtering... : 110110011111 true true
+filtering... : 110000101110 false true
+filtering... : 110011101000 false true
+filtering... : 110111011000 true true
+filtering... : 110111101111 true true
+filtering... : 110100110101 true true
+filtering... : 110110111011 true true
+filtering... : 110111100110 true true
+filtering... : 110101001101 true true
+filtering... : 110111110010 true true
+filtering... : 110110100011 true true
+filtering... : 110101001100 true true
+filtering... : 110100000000 true true
+filtering... : 110111011011 true true
+filtering... : 110000011111 false true
+filtering... : 110011011101 false true
+filtering... : 110100000111 true true
+filtering... : 110101001000 true true
+filtering... : 110000000011 false true
+filtering... : 110010101101 false true
+filtering... : 110001100101 false true
+filtering... : 110101011011 true true
+filtering... : 110110010011 true true
+filtering... : 110000100111 false true
+filtering... : 110101100000 true true
+filtering... : 110010110010 false true
+filtering... : 110100110111 true true
+110101110010
+110111100010
+110111011101
+110110111111
+110111110011
+110110010010
+110101101001
+110101010001
+110100101111
+110110110000
+110110100101
+110111011100
+110101110111
+110101011000
+110101011010
+110110001110
+110110100010
+110111100001
+110100010100
+110111011111
+110100010010
+110110111100
+110110000101
+110111010111
+110110001101
+110110101000
+110111001000
+110100000101
+110111101100
+110100110000
+110101111001
+110101100001
+110101010000
+110110001011
+110100001000
+110101011001
+110110011111
+110111011000
+110111101111
+110100110101
+110110111011
+110111100110
+110101001101
+110111110010
+110110100011
+110101001100
+110100000000
+110111011011
+110100000111
+110101001000
+110101011011
+110110010011
+110101100000
+110100110111
+-----
+round we go
+position : 7
+gamma_map : [false, false, true, false, false, false, true, false, false, true, true, false]
+gamma bit : false
+filtering... : 110101110010 false false
+filtering... : 110111100010 true false
+filtering... : 110111011101 true false
+filtering... : 110110111111 true false
+filtering... : 110111110011 true false
+filtering... : 110110010010 true false
+filtering... : 110101101001 false false
+filtering... : 110101010001 false false
+filtering... : 110100101111 false false
+filtering... : 110110110000 true false
+filtering... : 110110100101 true false
+filtering... : 110111011100 true false
+filtering... : 110101110111 false false
+filtering... : 110101011000 false false
+filtering... : 110101011010 false false
+filtering... : 110110001110 true false
+filtering... : 110110100010 true false
+filtering... : 110111100001 true false
+filtering... : 110100010100 false false
+filtering... : 110111011111 true false
+filtering... : 110100010010 false false
+filtering... : 110110111100 true false
+filtering... : 110110000101 true false
+filtering... : 110111010111 true false
+filtering... : 110110001101 true false
+filtering... : 110110101000 true false
+filtering... : 110111001000 true false
+filtering... : 110100000101 false false
+filtering... : 110111101100 true false
+filtering... : 110100110000 false false
+filtering... : 110101111001 false false
+filtering... : 110101100001 false false
+filtering... : 110101010000 false false
+filtering... : 110110001011 true false
+filtering... : 110100001000 false false
+filtering... : 110101011001 false false
+filtering... : 110110011111 true false
+filtering... : 110111011000 true false
+filtering... : 110111101111 true false
+filtering... : 110100110101 false false
+filtering... : 110110111011 true false
+filtering... : 110111100110 true false
+filtering... : 110101001101 false false
+filtering... : 110111110010 true false
+filtering... : 110110100011 true false
+filtering... : 110101001100 false false
+filtering... : 110100000000 false false
+filtering... : 110111011011 true false
+filtering... : 110100000111 false false
+filtering... : 110101001000 false false
+filtering... : 110101011011 false false
+filtering... : 110110010011 true false
+filtering... : 110101100000 false false
+filtering... : 110100110111 false false
+110101110010
+110101101001
+110101010001
+110100101111
+110101110111
+110101011000
+110101011010
+110100010100
+110100010010
+110100000101
+110100110000
+110101111001
+110101100001
+110101010000
+110100001000
+110101011001
+110100110101
+110101001101
+110101001100
+110100000000
+110100000111
+110101001000
+110101011011
+110101100000
+110100110111
+-----
+round we go
+position : 6
+gamma_map : [false, false, true, false, true, false, true, false, true, true, true, false]
+gamma bit : false
+filtering... : 110101110010 true false
+filtering... : 110101101001 true false
+filtering... : 110101010001 true false
+filtering... : 110100101111 false false
+filtering... : 110101110111 true false
+filtering... : 110101011000 true false
+filtering... : 110101011010 true false
+filtering... : 110100010100 false false
+filtering... : 110100010010 false false
+filtering... : 110100000101 false false
+filtering... : 110100110000 false false
+filtering... : 110101111001 true false
+filtering... : 110101100001 true false
+filtering... : 110101010000 true false
+filtering... : 110100001000 false false
+filtering... : 110101011001 true false
+filtering... : 110100110101 false false
+filtering... : 110101001101 true false
+filtering... : 110101001100 true false
+filtering... : 110100000000 false false
+filtering... : 110100000111 false false
+filtering... : 110101001000 true false
+filtering... : 110101011011 true false
+filtering... : 110101100000 true false
+filtering... : 110100110111 false false
+110100101111
+110100010100
+110100010010
+110100000101
+110100110000
+110100001000
+110100110101
+110100000000
+110100000111
+110100110111
+-----
+round we go
+position : 5
+gamma_map : [false, false, true, false, true, true, true, false, true, false, true, false]
+gamma bit : true
+filtering... : 110100101111 true true
+filtering... : 110100010100 false true
+filtering... : 110100010010 false true
+filtering... : 110100000101 false true
+filtering... : 110100110000 true true
+filtering... : 110100001000 false true
+filtering... : 110100110101 true true
+filtering... : 110100000000 false true
+filtering... : 110100000111 false true
+filtering... : 110100110111 true true
+110100101111
+110100110000
+110100110101
+110100110111
+-----
+round we go
+position : 4
+gamma_map : [false, false, true, false, true, true, false, false, true, false, false, false]
+gamma bit : false
+filtering... : 110100101111 false false
+filtering... : 110100110000 true false
+filtering... : 110100110101 true false
+filtering... : 110100110111 true false
+110100101111
+-----
+oxygen_generator_rating : 825
+co2_scrubber_rating : 3375
+life support rating : 2784375
