@@ -5,6 +5,7 @@ mod common;
 mod day_01;
 mod day_02;
 mod day_03;
+mod day_04;
 
 fn main() -> io::Result<()> {
     let selection = std::env::args().nth(1).expect("no pattern given");
@@ -16,6 +17,7 @@ fn main() -> io::Result<()> {
         "0202" => day_02::pt2::run(),
         "0301" => day_03::pt1::run(),
         "0302" => day_03::pt2::run(),
+        "0401" => day_04::pt1::run(),
         _ => {
             println!("Not a valid selection : {}", selection);
             Ok(())

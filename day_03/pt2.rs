@@ -9,9 +9,8 @@ enum RatingKind {
 }
 
 pub fn run() -> io::Result<()> {
-    let mut diag = Diagnostics::new();
     let lines = util::read_input("day_03/input.txt");
-    let mut debug_lines = lines.map(|line| line.unwrap() ).collect::<Vec<_>>();
+    let debug_lines = lines.map(|line| line.unwrap() ).collect::<Vec<_>>();
     let bit_len = ( debug_lines[0].len()-1 ) as u16;
 
     let oxygen_generator_rating = get_rating(RatingKind::OxygenGenerator, &debug_lines, bit_len, bit_len);
@@ -43,7 +42,7 @@ fn get_rating(rating_kind: RatingKind, diag_data: &Vec<String>, pos:u16, bit_len
     println!("gamma_map : {:?}", gamma_map);
     println!("gamma bit : {:?}", gamma_bit);
 
-    let mut filtered = diag_data.iter().filter(|line| {
+    let filtered = diag_data.iter().filter(|line| {
         let num = u32::from_str_radix(line, 2).unwrap();
         println!("filtering... : {} {:?} {}", line, ((num & (1 << pos)) != 0), gamma_bit);
 
