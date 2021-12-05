@@ -53,7 +53,7 @@ impl BingoBoard {
         winner
     }
 
-    pub fn calculate_score(&self) -> u16 {
+    pub fn calculate_score(&self) -> u32 {
         let mut score:u16 = 0;
 
         for (selected, value) in self.selected.iter().zip(self.numbers.iter()) {
@@ -62,6 +62,6 @@ impl BingoBoard {
             }
         }
 
-        score * self.last_number
+        score as u32 * self.last_number as u32
     }
 }

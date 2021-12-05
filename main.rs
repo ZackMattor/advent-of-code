@@ -18,6 +18,7 @@ fn main() -> io::Result<()> {
         "0301" => day_03::pt1::run(),
         "0302" => day_03::pt2::run(),
         "0401" => day_04::pt1::run(),
+        "0402" => day_04::pt2::run(),
         _ => {
             println!("Not a valid selection : {}", selection);
             Ok(())
