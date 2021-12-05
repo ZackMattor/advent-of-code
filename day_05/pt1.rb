@@ -1,5 +1,5 @@
 raw = File.read('input.txt')
-size=1100
+size=999
 $map = (1..size).map { |_| (1..size).map{ |_| 0} }
 point_pairs = raw.lines.map { |l| l.split('->').map {|a| a.split(',').map(&:to_i)}}
 $count = 0
