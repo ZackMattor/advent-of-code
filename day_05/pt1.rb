@@ -15,10 +15,7 @@ end
 #
 # Process all line pairs
 point_pairs.each do |pair|
-  x1 = pair[0][0]
-  y1 = pair[0][1]
-  x2 = pair[1][0]
-  y2 = pair[1][1]
+  ((x1,y1),(x2,y2)) = pair
 
   if(x1 == x2) # Vertical
     #puts "vert (#{x1},#{y1}) (#{x2},#{y2})"
