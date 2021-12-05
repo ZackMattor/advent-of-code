@@ -1,7 +1,7 @@
 raw = File.read('input.txt')
 size=1100
 map = (1..size).map { |_| (1..size).map{ |_| 0} }
-parts = raw.lines.map { |l| l.split('->').map {|a| a.split(',').map(&:to_i)}}
+point_pairs = raw.lines.map { |l| l.split('->').map {|a| a.split(',').map(&:to_i)}}
 count = 0
 
 def range(a,b)
@@ -14,7 +14,7 @@ end
 
 #
 # Process all line pairs
-parts.each do |pair|
+point_pairs.each do |pair|
   x1 = pair[0][0]
   y1 = pair[0][1]
   x2 = pair[1][0]
