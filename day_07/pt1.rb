@@ -1,17 +1,10 @@
-raw = File.read('input.txt')
-items = raw.split(',').map(&:to_i).sort
-max = items.max
+items = File.read('input.txt').split(',').map(&:to_i).sort
 
-results = []
-
-max.times do |i|
-  fuel = 0
-  items.each do |item|
-    fuel += ( item - i ).abs
-
-  end
-
-  results.push({ usage: fuel, position: i })
+results = (0..items.max).map do |i|
+  {
+    usage: items.map { |item| ( item - i ).abs }.sum,
+    position: i
+  }
 end
 
 p results.sort_by { |a| a[:usage] }[0]
