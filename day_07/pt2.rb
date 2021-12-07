@@ -2,7 +2,7 @@ items = File.read('input.txt').split(',').map(&:to_i).sort
 
 results = (0..items.max).map do |i|
   {
-    usage: items.map { |item| (1..(( item - i ).abs)).sum }.sum,
+    usage: items.inject { |sum, item| n=( item - i ).abs; sum + n*(n+1)/2 },
     position: i
   }
 end
