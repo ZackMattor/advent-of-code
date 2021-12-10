@@ -4,10 +4,10 @@ height_map = File.read('input.txt').lines.map { |l| l.strip.chars.map(&:to_i) }
 
 def surrounding_values(map, x, y)
   ar = []
-  ar << (map[y+1]&.dig(x))
-  ar << (map[y-1]&.dig(x)) if y != 0
-  ar << (map[y]&.dig(x-1)) if x != 0
-  ar << (map[y]&.dig(x+1))
+  ar << (map.dig(y+1, x))
+  ar << (map.dig(y-1, x)) if y != 0
+  ar << (map.dig(y, x-1)) if x != 0
+  ar << (map.dig(y, x+1))
   ar.compact
 end
 
