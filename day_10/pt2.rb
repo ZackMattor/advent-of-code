@@ -14,10 +14,6 @@ matches = {
   '<' => '>'
 }
 
-def get_score(completed)
-  completed.inject(0) { |sum, char| sum*5 + scores[completed]}
-end
-
 completes = []
 lines.each do |chars|
   stack = []
