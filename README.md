@@ -1,18 +1,7 @@
-# Advent of code 2021
+# Advent Of Code
 
-My attempts for the advent of code 2021 challenge. Going to get as far as I can doing it in rust.
-
-## Running
+My entries for the Advent Of Code challenges.
 
 ```
-# cargo run [Challenge Selection]
-
-# Ex...
-# 0101 -> day 1 part 1
-# 0102 -> day 1 part 2
-# 0502 -> day 5 part 2
-
-# So to run day 1 part 1
-cargo run 0101
-
+Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other.
 ```
