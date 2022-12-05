@@ -38,6 +38,6 @@ end
 
 day_04_pt1("sample.txt")
 day_04_pt1("input.txt")
-uts
+puts
 day_04_pt2("sample.txt")
 day_04_pt2("input.txt")
