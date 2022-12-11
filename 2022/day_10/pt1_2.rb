@@ -21,11 +21,9 @@ end
 
 
 def pt2(input_file)
-  score = 0
-
   crt_screen = CrtScreen.new
-
   cpu = Cpu.new
+  
   cpu.import_program_file(input_file)
   cpu.connect_device(crt_screen)
 
