@@ -1,17 +1,8 @@
 require 'pry'
 require 'awesome_print'
 
-Point = Struct.new(:x, :y) do
-  def to_a
-    [y, x]
-  end
-end
-
-Sensor = Struct.new(:point, :radius) do
-  def sees_point?(p)
-    taxi_distance(point, p) <= radius
-  end
-end
+Point = Struct.new(:x, :y)
+Sensor = Struct.new(:point, :radius)
 
 def taxi_distance(a, b)
   (a.x - b.x).abs + (a.y - b.y).abs
@@ -23,7 +14,6 @@ class BeaconMap
   def initialize
     @beacons = []
     @sensors = []
-    @map = {}
   end
 
   def read_sensor_readings_from_file!(input_file)
@@ -46,42 +36,6 @@ class BeaconMap
 
     @sensors << Sensor.new(sensor_loc, radius)
     @beacons << closest_beacon_loc
-
-    insert_item!(sensor_loc, 'S')
-    insert_item!(closest_beacon_loc, 'B')
-  end
-
-  def insert_item!(point,item)
-    @map[point.y] = {} if @map[point.y].nil?
-    @map[point.y][point.x] = item
-  end
-
-
-  def get_map_bounds
-    x_min = Float::INFINITY
-    x_max = -Float::INFINITY
-
-    y_min = Float::INFINITY
-    y_max = -Float::INFINITY
-
-    @sensors.each do |sensor|
-      x_val = sensor.point.x - sensor.radius
-      x_min = x_val if x_min > x_val
-
-      x_val = sensor.point.x + sensor.radius
-      x_max = x_val if x_max < x_val
-
-      y_val = sensor.point.y - sensor.radius
-      y_min = y_val if y_min > y_val
-
-      y_val = sensor.point.y + sensor.radius
-      y_max = y_val if y_max < y_val
-    end
-
-    [
-      (y_min..y_max),
-      (x_min..x_max)
-    ]
   end
 
   def sensor_ranges_on_row(y)
