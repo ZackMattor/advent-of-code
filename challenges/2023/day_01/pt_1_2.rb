@@ -44,14 +44,16 @@ def day_01_pt2(input_file)
       break if first && last
     end
 
+    puts "#{first}#{last}"
     "#{first}#{last}".to_i
   end
 
   puts "Answer for input #{input_file} for Day1 Pt1 : #{ ans }"
 end
 
-day_01_pt1("sample.txt")
-day_01_pt1("input.txt")
-puts
-day_01_pt2("sample_p2.txt")
+#day_01_pt1("sample.txt")
+#day_01_pt1("input.txt")
+#puts
+#day_01_pt2("sample_p2.txt")
+#day_01_pt2("input2.txt")
 day_01_pt2("input.txt")
