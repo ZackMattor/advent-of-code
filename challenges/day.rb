@@ -1,5 +1,5 @@
 class Day
-  def initialize(input_file)
-    puts __FILE__
+  def initialize(year, day, input_file)
+    @raw_data = File.read("./challenges/#{year}/#{day}/#{input_file}")
   end
 end
